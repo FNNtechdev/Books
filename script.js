@@ -156,7 +156,7 @@ const books = [
     "author": "Paulo Coelho",
     "price": 500,
     "description": "A classic novel about a shepherd boy named Santiago who journeys from Spain to the Egyptian desert in search of a hidden treasure, learning about the importance of following your dreams.",
-    "coverUrl": "The_alchemist.jpg"
+    "coverUrl": "The_Alchemist.jpg"
 },
 {
     "title": "Stop Talking, Start Doing: A Kick in the Pants in Six Parts",
