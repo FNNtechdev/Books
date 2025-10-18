@@ -254,217 +254,217 @@ const books = [
     "author": "Jordanna Levin",
     "price": 500,
     "description": "A guide on the principles of manifestation, combining self-help with practical steps to turn dreams into reality and create a life aligned with your desires.",
-    "coverUrl": "images/Make_it_happen.jpg"
+    "coverUrl": "Make_it_happen.jpg"
 },
 {
     "title": "The Confidence Code: The Science and Art of Self-Assurance—What Women Should Know",
     "author": "Katty Kay and Claire Shipman",
     "price": 500,
     "description": "An exploration of the essential role of confidence in success, providing insights from psychology and practical advice specifically for women to develop self-assurance.",
-    "coverUrl": "images/The_confidence_code.jpg"
+    "coverUrl": "The_confidence_code.jpg"
 },
 {
     "title": "Focus on What Matters: A Collection of Stoic Letters on Living Well",
     "author": "Darius Foroux",
     "price": 500,
     "description": "A collection of letters based on Stoic philosophy, providing timeless wisdom and practical advice on productivity, focus, and living a meaningful life.",
-    "coverUrl": "images/Focus_on_what_matters.jpg"
+    "coverUrl": "Focus_on_what_matters.jpg"
 },
 {
     "title": "this time you return to yourself",
     "author": "Duduzile Noeleen Ngwenya",
     "price": 500,
     "description": "A poetic or contemplative collection focusing on self-discovery, healing, and the journey of returning to one's authentic self after various life experiences.",
-    "coverUrl": "images/This_time_you_return_to_yourself.jpg"
+    "coverUrl": "This_time_you_return_to_yourself.jpg"
 },
 {
     "title": "What Are You Doing With Your Life?",
     "author": "J. Krishnamurti",
     "price": 500,
     "description": "A philosophical and spiritual work that challenges readers to question the nature of their existence, purpose, and conditioning in order to live a truly free life.",
-    "coverUrl": "images/What_are_you_doing_with_your_life.jpg"
+    "coverUrl": "What_are_you_doing_with_your_life.jpg"
 },
 {
     "title": "Rich Routines: Simple Habits That Enrich Every Area of Your Life",
     "author": "Steve Houghton",
     "price": 500,
     "description": "A guide detailing simple, effective daily habits to build 'wealth' across five key areas: Financial, Emotional, Mental, Physical, and Spiritual.",
-    "coverUrl": "images/Rich_routines.png"
+    "coverUrl": "Rich_routines.png"
 },
 {
     "title": "Things We Don’t Talk About",
     "author": "Pandora Owl",
     "price": 500,
     "description": "Likely a collection of poems or prose that addresses deep, often difficult or taboo emotional and psychological topics that are commonly left unsaid.",
-    "coverUrl": "images/Things_we_dont_talk_about.jpg"
+    "coverUrl": "Things_we_dont_talk_about.jpg"
 },
 {
     "title": "Habits of a Godly Woman",
     "author": "Joyce Meyer",
     "price": 500,
     "description": "A Christian devotional or self-help book that outlines spiritual and practical habits for women seeking to deepen their faith and live a life aligned with Christian values.",
-    "coverUrl": "images/Habits_of_a_Godly_woman.jpg"
+    "coverUrl": "Habits_of_a_Godly_woman.jpg"
 },
 {
     "title": "Where The F**k Do I Go From Here?",
     "author": "Bhavya Arora",
     "price": 500,
     "description": "A candid and motivational guide for those feeling lost or at a crossroads, offering advice and steps to find direction and forge a path forward in life.",
-    "coverUrl": "images/Where_did_I_go.png"
+    "coverUrl": "Where_did_I_go.png"
 },
 {
     "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
     "author": "Morgan Housel",
     "price": 500,
     "description": "Explores the idea that success with money has less to do with intelligence and more to do with behavior, sharing lessons on personal finance, investment, and happiness.",
-    "coverUrl": "images/The_psychology_of_money.jpg"
+    "coverUrl": "The_psychology_of_money.jpg"
 },
 {
     "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
     "author": "Mark Manson",
     "price": 500,
     "description": "A bestselling guide that argues true happiness comes from not caring about everything, but rather from identifying and caring only about what is truly important.",
-    "coverUrl": "images/The_subtle_art.jpg"
+    "coverUrl": "The_subtle_art.jpg"
 },
 {
     "title": "The Diary of a CEO: The 33 Laws of Business & Life",
     "author": "Steven Bartlett",
     "price": 500,
     "description": "A business and life manifesto drawn from the host's personal experiences, offering lessons and laws for achieving success in both business and personal life.",
-    "coverUrl": "images/The_diary_of_a_CEO.jpg"
+    "coverUrl": "The_diary_of_a_CEO.jpg"
 },
 {
     "title": "Healing Is the New High: A Guide to Overcoming Emotional Turmoil and Finding Freedom",
     "author": "Vex King",
     "price": 500,
     "description": "A guide that focuses on self-healing, moving past emotional turmoil, and achieving inner freedom by adopting a positive mindset and practices.",
-    "coverUrl": "images/Healing_is_the_new_high.jpg"
+    "coverUrl": "Healing_is_the_new_high.jpg"
 },
 {
     "title": "Believe It to Achieve It: Overcome Your Doubts, Let Go of the Past, and Unlock Your Full Potential",
     "author": "Brian Tracy and Christina Stein, Ph.D.",
     "price": 500,
     "description": "Offers a practical framework for overcoming self-doubt and past limitations to harness your inner potential and achieve your most important goals.",
-    "coverUrl": "images/Believe_it_to_achieve_it.jpg"
+    "coverUrl": "Believe_it_to_achieve_it.jpg"
 },
 {
     "title": "Hullabaloo, Bu-Bye, Koko, Come In",
     "author": "Koleka Putuma",
     "price": 500,
     "description": "A collection of poetry exploring themes of identity, race, class, and feminism in contemporary South Africa, known for its powerful and critical voice.",
-    "coverUrl": "images/Hullo.jpg"
+    "coverUrl": "Hullo.jpg"
 },
 {
     "title": "dear self,",
     "author": "Patience Tamarra",
     "price": 500,
     "description": "A reflective collection of letters or short prose dedicated to self-love, personal growth, and emotional healing.",
-    "coverUrl": "images/Dear_self.jpg"
+    "coverUrl": "Dear_self.jpg"
 },
 {
     "title": "Just Not Winning: When life feels like a losing game, even showing up is a win.",
     "author": "Ntombizinhle B Sithole",
     "price": 500,
     "description": "A motivational and comforting read that shifts the perspective on success, emphasizing that resilience and perseverance are victories in themselves.",
-    "coverUrl": "images/Just_not_winning.jpg"
+    "coverUrl": "Just_not_winning.jpg"
 },
 {
     "title": "You Get Better With Time Love: This is how you love yourself",
     "author": "Duduzile Noeleen Ngwenya",
     "price": 500,
     "description": "A self-love guide that focuses on the journey of continuous personal improvement, acceptance, and how to authentically love and care for yourself.",
-    "coverUrl": "images/You_get_better_with_time_love.jpg"
+    "coverUrl": "You_get_better_with_time_love.jpg"
 },
 {
     "title": "Do It For Your Self: A Motivational Journal",
     "author": "Kara Cutruzzula (Illustrated by Tessa Forrest)",
     "price": 500,
     "description": "A motivational journal designed to encourage self-care, goal setting, and personal reflection, making motivation an internal, rather than external, pursuit.",
-    "coverUrl": "images/Do_it_for_yourself.jpg"
+    "coverUrl": "Do_it_for_yourself.jpg"
 },
 {
     "title": "Power Moves: Ignite Your Confidence & Become A Force",
     "author": "Sarah Jakes Roberts",
     "price": 500,
     "description": "A motivational guide for women on how to tap into their confidence, overcome self-doubt, and harness their inner power to make significant strides in life and career.",
-    "coverUrl": "images/Power_moves.jpg"
+    "coverUrl": "Power_moves.jpg"
 },
 {
     "title": "Who Moved My Cheese? An Amazing Way to Deal With Change in Your Work and in Your Life",
     "author": "Dr Spencer Johnson",
     "price": 500,
     "description": "A simple allegorical tale about four characters dealing with changes in their supply of cheese, offering practical lessons on handling change, fear, and adaptation.",
-    "coverUrl": "images/Who_moved_my_cheese.jpg"
+    "coverUrl": "Who_moved_my_cheese.jpg"
 },
 {
     "title": "When Grief Comes: Finding Strength for Today and Hope for Tomorrow",
     "author": "Kirk H. Neely",
     "price": 500,
     "description": "A compassionate guide offering comfort, spiritual strength, and enduring hope to those navigating the pain of loss and grief.",
-    "coverUrl": "images/When_grief_comes.jpg"
+    "coverUrl": "When_grief_comes.jpg"
 },
 {
     "title": "Disciple: Walking with God",
     "author": "Rorisang Thandekiso",
     "price": 500,
     "description": "A personal and spiritual memoir or guide on deepening one's relationship with God and embracing the journey of Christian discipleship.",
-    "coverUrl": "images/Discipline.jpg"
+    "coverUrl": "Discipline.jpg"
 },
 {
     "title": "Finding Me",
     "author": "Viola Davis",
     "price": 500,
     "description": "The candid and powerful memoir of Oscar-winning actress Viola Davis, recounting her journey from poverty and trauma to becoming a celebrated artist.",
-    "coverUrl": "images/Finding_me.jpg"
+    "coverUrl": "Finding_me.jpg"
 },
 {
     "title": "Woman Evolve: Break Up with Your Fears & Revolutionize Your Life",
     "author": "Sarah Jakes Roberts",
     "price": 500,
     "description": "A transformative guide for women, encouraging them to leave behind past limitations and embrace their personal evolution and purpose.",
-    "coverUrl": "images/Woman_evolve.jpg"
+    "coverUrl": "Woman_evolve.jpg"
 },
 {
     "title": "Tuesdays with Morrie: an old man, a young man, and life's greatest lesson",
     "author": "Mitch Albom",
     "price": 500,
     "description": "A poignant memoir about a series of visits between a journalist and his former college professor who is dying, chronicling life lessons on love, work, community, and death.",
-    "coverUrl": "images/Tuesdays_with_Morrie.jpg"
+    "coverUrl": "Tuesdays_with_Morrie.jpg"
 },
 {
     "title": "How Did We Get Here? A girl's guide to finding herself",
     "author": "Mpoomy Ledwaba",
     "price": 500,
     "description": "A personal guide offering advice, reflection, and encouragement for young women on the journey of self-discovery and finding purpose.",
-    "coverUrl": "images/How_did_we_get_here.jpg"
+    "coverUrl": "How_did_we_get_here.jpg"
 },
 {
     "title": "The 48 Laws of Power",
     "author": "Robert Greene",
     "price": 500,
     "description": "A controversial but influential guide that distills the history of power into 48 laws, drawn from the philosophies of Machiavelli, Sun Tzu, and others.",
-    "coverUrl": "images/The_48_laws_of_power.jpg"
+    "coverUrl": "The_48_laws_of_power.jpg"
 },
 {
     "title": "Becoming",
     "author": "Michelle Obama",
     "price": 500,
     "description": "A deeply personal memoir by the former First Lady of the United States, chronicling her roots, her time in the White House, and her journey to finding her voice.",
-    "coverUrl": "images/Becoming_Michelle_Obama.jpg"
+    "coverUrl": "Becoming_Michelle_Obama.jpg"
 },
 {
     "title": "The Psychology of Being That Girl: The Ultimate Guide to Self-Development.",
     "author": "Aniya Holmes",
     "price": 500,
     "description": "A modern guide to self-development, focusing on building confidence, routines, and a mindset that embodies the aspirational 'That Girl' aesthetic and lifestyle.",
-    "coverUrl": "images/The_psychology_of_being_that_girl.jpg"
+    "coverUrl": "The_psychology_of_being_that_girl.jpg"
 },
 {
         title: "The Power of Positive Thinking",
         author: "Norman Vincent Peale",
         price: 500,
         description: "Transform your mindset and unlock your potential. Learn practical techniques to overcome negativity, build confidence, and achieve your goals through the power of positive thinking.",
-        coverUrl: "images/The_power_of_positive_thinking.jpg"
+        coverUrl: "The_power_of_positive_thinking.jpg"
 
     }
 ];
