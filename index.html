@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fnntech.dev - Quality Books Delivered Countrywide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="transition-colors duration-300">
+
+    <!-- Loading Screen -->
+    <div id="loadingScreen">
+        <img src="images/logo.jpg" alt="Fnntech.dev" class="loading-logo">
+        <div class="loading-text">
+            <p class="font-bold text-2xl mb-2">Welcome to Fnntech.dev</p>
+            <p class="text-lg">Your Gateway to Knowledge & Success</p>
+            <p class="text-sm mt-4 opacity-75">Bringing You Quality Books, Delivered Countrywide...</p>
+        </div>
+    </div>
+
+    <!-- WhatsApp Sticky Button -->
+    <a href="https://wa.me/254724986797" target="_blank" class="whatsapp-sticky">
+        <i class="fab fa-whatsapp text-white text-3xl"></i>
+    </a>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed top-0 w-full z-50 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center space-x-3">
+                    <img src="images/logo.jpg" alt="Fnntech.dev" class="h-10 w-10">
+                    <span class="text-xl font-bold text-[#5D5CDE]">Fnntech.dev</span>
+                </div>
+                <div class="hidden md:flex space-x-8 items-center">
+                    <a href="#home" class="hover:text-[#5D5CDE] transition">Home</a>
+                    <a href="#books" class="hover:text-[#5D5CDE] transition">Books</a>
+                    <a href="#about" class="hover:text-[#5D5CDE] transition">About</a>
+                    <a href="#gallery" class="hover:text-[#5D5CDE] transition">Gallery</a>
+                    <a href="#blogs" class="hover:text-[#5D5CDE] transition">Blogs</a>
+                    <a href="#reviews" class="hover:text-[#5D5CDE] transition">Reviews</a>
+                    <div id="themeToggle" class="theme-toggle ml-4">
+                        <div class="theme-toggle-slider">
+                            <i class="fas fa-sun dark:hidden"></i>
+                            <i class="fas fa-moon hidden dark:block"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4 md:hidden">
+                    <div id="themeToggleMobile" class="theme-toggle">
+                        <div class="theme-toggle-slider">
+                            <i class="fas fa-sun dark:hidden"></i>
+                            <i class="fas fa-moon hidden dark:block"></i>
+                        </div>
+                    </div>
+                    <button id="mobileMenuBtn">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobileMenu" class="hidden md:hidden px-4 pb-4">
+            <a href="#home" class="block py-2 hover:text-[#5D5CDE] transition">Home</a>
+            <a href="#books" class="block py-2 hover:text-[#5D5CDE] transition">Books</a>
+            <a href="#about" class="block py-2 hover:text-[#5D5CDE] transition">About</a>
+            <a href="#gallery" class="block py-2 hover:text-[#5D5CDE] transition">Gallery</a>
+            <a href="#blogs" class="block py-2 hover:text-[#5D5CDE] transition">Blogs</a>
+            <a href="#reviews" class="block py-2 hover:text-[#5D5CDE] transition">Reviews</a>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="min-h-screen flex items-center justify-center pt-16 px-4 bg-gradient-to-br from-purple-50 to-blue-50 dark:from-gray-900 dark:to-gray-800">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+                Transform Your Mind, Transform Your Life
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 text-gray-700 dark:text-gray-300 italic">
+                "A reader lives a thousand lives before he dies. The man who never reads lives only one."<br>
+                <span class="text-base">- George R.R. Martin</span>
+            </p>
+            <p class="text-lg mb-8 text-gray-600 dark:text-gray-400">
+                Discover the power of reading hard copy books. Feel the pages, smell the ink, and create lasting memories with our carefully curated collection.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="#books" class="glow-button bg-[#5D5CDE] text-white px-8 py-3 rounded-full font-semibold text-base">
+                    Browse Books
+                </a>
+                <a href="#blogs" class="glow-button bg-white dark:bg-gray-800 text-[#5D5CDE] border-2 border-[#5D5CDE] px-8 py-3 rounded-full font-semibold text-base">
+                    Read Latest Blogs
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Books Section -->
+    <section id="books" class="py-20 px-4 bg-white dark:bg-[#0a0a0a]">
+        <div class="max-w-7xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-4">Our Book Collection</h2>
+            <p class="text-center text-gray-600 dark:text-gray-400 mb-12">All books at Ksh 500 each - Delivered Countrywide</p>
+
+            <!-- Search Bar -->
+            <div class="max-w-2xl mx-auto mb-12">
+                <div class="relative">
+                    <input
+                        type="text"
+                        id="searchInput"
+                        placeholder="Search for books by title or author..."
+                        class="search-input w-full px-6 py-4 rounded-full border-2 border-gray-300 dark:border-gray-700 focus:border-[#5D5CDE] outline-none transition text-base"
+                    >
+                    <i class="fas fa-search absolute right-6 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+                </div>
+            </div>
+
+            <!-- Books Grid -->
+            <div id="booksGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <!-- Books will be dynamically inserted here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-20 px-4 bg-gray-50 dark:bg-[#1a1a1a]">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-12">About Us</h2>
+            <div class="card-bg bg-white dark:bg-[#0a0a0a] rounded-2xl p-8 shadow-lg border border-gray-200 dark:border-gray-800">
+                <div class="flex flex-col md:flex-row items-center gap-8">
+                    <img src="images/logo.jpg" alt="Fnntech.dev" class="w-32 h-32 rounded-lg">
+                    <div>
+                        <h3 class="text-2xl font-bold mb-4 text-[#5D5CDE]">Fnntech.dev - Your Trusted Book Partner</h3>
+                        <p class="text-gray-700 dark:text-gray-300 mb-4">
+                            For over 5 years, Fnntech.dev has been Kenya's premier destination for quality hard copy books. We believe in the transformative power of reading and are committed to making knowledge accessible to everyone, countrywide.
+                        </p>
+                        <p class="text-gray-700 dark:text-gray-300 mb-4">
+                            Our mission is simple: deliver authentic, high-quality books at affordable prices. Each book in our collection is carefully selected to inspire, educate, and empower our readers to achieve their full potential.
+                        </p>
+                        <p class="text-gray-700 dark:text-gray-300">
+                            With thousands of satisfied customers and a growing community of book lovers, we take pride in our reliable delivery service, exceptional customer care, and unwavering commitment to quality. Your success is our success.
+                        </p>
+                        <div class="mt-6 flex items-center gap-8">
+                            <div>
+                                <p class="text-3xl font-bold text-[#5D5CDE]" id="customerCount">5,000+</p>
+                                <p class="text-sm text-gray-600 dark:text-gray-400">Happy Customers</p>
+                            </div>
+                            <div>
+                                <p class="text-3xl font-bold text-[#5D5CDE]">5+</p>
+                                <p class="text-sm text-gray-600 dark:text-gray-400">Years of Service</p>
+                            </div>
+                            <div>
+                                <p class="text-3xl font-bold text-[#5D5CDE]">100%</p>
+                                <p class="text-sm text-gray-600 dark:text-gray-400">Quality Guarantee</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="py-20 px-4 bg-white dark:bg-[#0a0a0a]">
+        <div class="max-w-7xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-12">Gallery</h2>
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" id="galleryGrid">
+                <!-- Gallery items will be added here -->
+                <div class="gallery-item aspect-square bg-gray-200 dark:bg-gray-800 flex items-center justify-center">
+                    <p class="text-gray-500 dark:text-gray-400">Add your photos</p>
+                            <img src="images/photo.jpg" alt="Fnntech.dev" class="loading-logo">
+                </div>
+                <div class="gallery-item aspect-square bg-gray-200 dark:bg-gray-800 flex items-center justify-center">
+                    <p class="text-gray-500 dark:text-gray-400">Add your photos</p>
+                            <img src="images/logo.jpg" alt="Fnntech.dev" class="loading-logo">
+                </div>
+                <div class="gallery-item aspect-square bg-gray-200 dark:bg-gray-800 flex items-center justify-center">
+                    <p class="text-gray-500 dark:text-gray-400">Add your photos</p>
+                            <img src="images/photo2.jpg" alt="Fnntech.dev" class="loading-logo">
+                </div>
+                <div class="gallery-item aspect-square bg-gray-200 dark:bg-gray-800 flex items-center justify-center">
+                    <p class="text-gray-500 dark:text-gray-400">Add your photos</p>
+                            <img src="images/photo4.jpg" alt="Fnntech.dev" class="loading-logo">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blogs Section -->
+    <section id="blogs" class="py-20 px-4 bg-gray-50 dark:bg-[#1a1a1a]">
+        <div class="max-w-7xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-12">Latest Blogs & Quotes</h2>
+            <div id="blogsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Blogs will be dynamically inserted here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Reviews Section -->
+    <section id="reviews" class="py-20 px-4 bg-white dark:bg-[#0a0a0a]">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-4">Customer Reviews</h2>
+            <div class="text-center mb-12">
+                <div class="inline-flex items-center gap-2">
+                    <div class="star-rating" id="averageRating">
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                        <i class="fas fa-star text-yellow-400"></i>
+                    </div>
+                    <span class="text-gray-600 dark:text-gray-400">(<span id="reviewCount">3</span> reviews)</span>
+                </div>
+            </div>
+
+            <!-- Existing Reviews -->
+            <div id="reviewsContainer" class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+                <!-- Reviews will be dynamically inserted here -->
+            </div>
+
+            <!-- Add Review Form -->
+            <div class="max-w-2xl mx-auto card-bg bg-gray-50 dark:bg-[#1a1a1a] rounded-2xl p-8 border border-gray-200 dark:border-gray-800">
+                <h3 class="text-2xl font-bold mb-6">Share Your Experience</h3>
+                <form id="reviewForm">
+                    <div class="mb-4">
+                        <label class="block mb-2 font-semibold">Your Name</label>
+                        <input type="text" id="reviewerName" required class="w-full px-4 py-3 rounded-lg border-2 border-gray-300 dark:border-gray-700 dark:bg-gray-800 focus:border-[#5D5CDE] outline-none transition text-base">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block mb-2 font-semibold">Rating</label>
+                        <div class="star-rating" id="ratingInput">
+                            <i class="fas fa-star star" data-rating="1"></i>
+                            <i class="fas fa-star star" data-rating="2"></i>
+                            <i class="fas fa-star star" data-rating="3"></i>
+                            <i class="fas fa-star star" data-rating="4"></i>
+                            <i class="fas fa-star star" data-rating="5"></i>
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <label class="block mb-2 font-semibold">Your Review</label>
+                        <textarea id="reviewText" required rows="4" class="w-full px-4 py-3 rounded-lg border-2 border-gray-300 dark:border-gray-700 dark:bg-gray-800 focus:border-[#5D5CDE] outline-none transition text-base"></textarea>
+                    </div>
+                    <button type="submit" class="glow-button w-full bg-[#5D5CDE] text-white px-8 py-3 rounded-full font-semibold text-base">
+                        Submit Review
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12 px-4">
+        <div class="max-w-7xl mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <div class="flex items-center space-x-3 mb-4">
+                        <img src="images/logo.jpg" alt="Fnntech.dev" class="h-10 w-10">
+                        <span class="text-xl font-bold">Fnntech.dev</span>
+                    </div>
+                    <p class="text-gray-400">Your trusted partner for quality books, delivered countrywide.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Quick Links</h4>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="#home" class="hover:text-white transition">Home</a></li>
+                        <li><a href="#books" class="hover:text-white transition">Books</a></li>
+                        <li><a href="#about" class="hover:text-white transition">About</a></li>
+                        <li><a href="#blogs" class="hover:text-white transition">Blogs</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Contact Us</h4>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><i class="fab fa-whatsapp mr-2"></i>WhatsApp: <a href="https://wa.me/254724986797?text=Hi%20Faith!%20I%20found%20you%20on%20your%20website." target="_blank">
+  Click Here
+</a></li>
+    <li><i class="fas fa-envelope mr-2"></i>Email:<a href="mailto:deskylancer@gmail.com?subject=Hello%20Faith&body=I%20would%20like%20to%20connect%20with%20you.">
+  Click Here
+</a></li>
+
+                        <li><i class="fas fa-map-marker-alt mr-2"></i>Kenya - Countrywide Delivery</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 pt-8 text-center text-gray-400">
+                <p>&copy; 2024 Fnntech.dev. All rights reserved. | Empowering minds through reading</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
