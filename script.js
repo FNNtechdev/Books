@@ -58,7 +58,7 @@ const books = [
         author: "James Clear",
         price: 500,
         description: "Transform your life with tiny changes that deliver remarkable results. Learn how small habits compound into extraordinary achievements through proven strategies backed by science.",
-        coverUrl:"images/Atomic_Habits.jpg"
+        coverUrl:"Atomic_Habits.jpg"
 
     },
     {
@@ -66,7 +66,7 @@ const books = [
         author: "Robert Kiyosaki",
         price: 500,
         description: "Discover the financial lessons that will change your perspective on money and investing. Learn what the rich teach their kids about money that the poor and middle class do not.",
-        coverUrl: "images/Rich_dad_poor_dad.jpg"
+        coverUrl: "Rich_dad_poor_dad.jpg"
 
     },
     {
@@ -74,7 +74,7 @@ const books = [
         author: "Napoleon Hill",
         price: 500,
         description: "The timeless classic that has inspired millions to achieve success. Unlock the secrets of the world's most successful people and learn the principles that lead to wealth and achievement.",
-        coverUrl: "images/Think_and_grow_rich.jpg"
+        coverUrl: "Think_and_grow_rich.jpg"
 
     },
     {
@@ -82,7 +82,7 @@ const books = [
         author: "Benjamin Graham",
         price: 500,
         description: "The definitive book on value investing. Learn the principles of sound investment strategy that have guided the world's most successful investors for over 70 years.",
-        coverUrl: "images/The_intelligent_investor.jpg"
+        coverUrl: "The_intelligent_investor.jpg"
 
     },
     {
@@ -90,7 +90,7 @@ const books = [
         author: "George S. Clason",
         price: 500,
         description: "Ancient wisdom for modern wealth. Discover timeless financial principles through captivating stories set in ancient Babylon that remain relevant today.",
-        coverUrl:  "images/The_richest_man_in_Babylon.jpg"
+        coverUrl:  "The_richest_man_in_Babylon.jpg"
 
     },
     {
@@ -98,7 +98,7 @@ const books = [
         author: "Daniel Goleman",
         price: 500,
         description: "Master the art of focused writing and productivity. Learn techniques to overcome writer's block, maintain concentration, and produce your best work consistently.",
-        coverUrl: "images/Focus.jpg"
+        coverUrl: "Focus.jpg"
 
     },
     {
@@ -106,7 +106,7 @@ const books = [
         author: "Duduzile Noeleen Ngwenya",
         price: 500,
         description: "A journey of self-discovery and personal growth. Explore the inner dialogues and reflections that lead to greater self-awareness and emotional intelligence.",
-        coverUrl:  "images/Things_I_never_said_to_myself.jpg"
+        coverUrl:  "Things_I_never_said_to_myself.jpg"
 
     },
     {
@@ -114,140 +114,140 @@ const books = [
     "author": "Angela Duckworth",
     "price": 500,
     "description": "Explores the psychological trait of grit, defined as passion and sustained persistence applied toward long-term achievement, and how it is a key predictor of success.",
-    "coverUrl": "images/Grit.jpg"
+    "coverUrl": "Grit.jpg"
 },
 {
     "title": "The Art of Laziness: Overcome Procrastination & Boost Your Productivity",
     "author": "Library Mindset",
     "price": 500,
     "description": "A guide on how to overcome procrastination and boost productivity, offering a different perspective on time management and efficiency.",
-    "coverUrl": "images/The_art_of_laziness.jpg"
+    "coverUrl": "The_art_of_laziness.jpg"
 },
 {
     "title": "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery",
     "author": "Brianna Wiest",
     "price": 500,
     "description": "Focuses on helping readers understand and overcome self-sabotaging behaviors to achieve self-mastery and realize their true potential.",
-    "coverUrl": "images/The_mountain_is_you.jpg"
+    "coverUrl": "The_mountain_is_you.jpg"
 },
 {
     "title": "Deep Work: Rules for Focused Success in a Distracted World",
     "author": "Cal Newport",
     "price": 500,
     "description": "Presents rules and strategies for achieving 'deep work'—the ability to focus without distraction on a cognitively demanding task—as a skill vital for success.",
-    "coverUrl": "images/Deep_work.jpg"
+    "coverUrl": "Deep_work.jpg"
 },
 {
     "title": "The Magic of Thinking Big",
     "author": "David Schwartz, PhD",
     "price": 500,
     "description": "A timeless classic that offers practical methods for gaining wealth, fulfillment, and happiness by cultivating the habit of thinking big and believing in oneself.",
-    "coverUrl": "images/The_magic_of_thinking_big.jpg"
+    "coverUrl": "The_magic_of_thinking_big.jpg"
 },
 {
     "title": "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships",
     "author": "Leil Lowndes",
     "price": 500,
     "description": "Provides practical and actionable communication techniques to help readers excel in social and business relationships.",
-    "coverUrl": "images/How_to_talk_to_anyone.jpg"
+    "coverUrl": "How_to_talk_to_anyone.jpg"
 },
 {
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "price": 500,
     "description": "A classic novel about a shepherd boy named Santiago who journeys from Spain to the Egyptian desert in search of a hidden treasure, learning about the importance of following your dreams.",
-    "coverUrl": "images/The_alchemist.jpg"
+    "coverUrl": "The_alchemist.jpg"
 },
 {
     "title": "Stop Talking, Start Doing: A Kick in the Pants in Six Parts",
     "author": "Sháá Wasmund with Richard Newton",
     "price": 500,
     "description": "A straightforward guide designed to help readers overcome inaction and start achieving their goals by taking immediate, purposeful steps.",
-    "coverUrl": "images/Stop_talking_start_doing.jpg"
+    "coverUrl": "Stop_talking_start_doing.jpg"
 },
 {
     "title": "Best Self: Be You, Only Better",
     "author": "Mike Bayer",
     "price": 500,
     "description": "Offers a step-by-step approach to identifying your authentic 'Best Self' and creating an action plan to live a more fulfilled life, guided by a celebrity life coach.",
-    "coverUrl": "images/Best_self.jpg"
+    "coverUrl": "Best_self.jpg"
 },
 {
     "title": "You Were Not Born To Suffer: Overcome Fear, Insecurity and Depression and Love Yourself Back to Happiness, Confidence and Peace",
     "author": "Blake D Bauer",
     "price": 500,
     "description": "A guide to understanding the root causes of suffering, fear, and insecurity, offering a path toward self-love, confidence, and inner peace.",
-    "coverUrl": "images/You_were_not_born_to_suffer.jpg"
+    "coverUrl": "You_were_not_born_to_suffer.jpg"
 },
 {
     "title": "Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
     "author": "Dr. Henry Cloud & Dr. John Townsend",
     "price": 500,
     "description": "A Christian-based guide on setting healthy personal boundaries in relationships and life to help manage personal space, responsibility, and emotional well-being.",
-    "coverUrl": "images/Boundaries.jpg"
+    "coverUrl": "Boundaries.jpg"
 },
 {
     "title": "Do It Today: Overcome Procrastination, Improve Productivity & Achieve More Meaningful Things",
     "author": "Darius Foroux",
     "price": 500,
     "description": "A practical guide focused on overcoming procrastination and boosting personal productivity by taking immediate action on important tasks.",
-    "coverUrl": "images/Do_it_today.jpg"
+    "coverUrl": "Do_it_today.jpg"
 },
 {
     "title": "Make Your Bed: Small things that can change your life... and maybe the world",
     "author": "William H. McRaven",
     "price": 500,
     "description": "Based on a commencement speech, this book shares ten life lessons from Navy SEAL training that emphasize discipline, perseverance, and the impact of small daily achievements.",
-    "coverUrl": "images/Make_your_bed.jpg"
+    "coverUrl": "Make_your_bed.jpg"
 },
 {
     "title": "How to Listen with Intention: The Foundation of True Connection, Communication, & Relationships",
     "author": "Patrick King",
     "price": 500,
     "description": "A guide on developing intentional listening skills to improve communication, deepen relationships, and foster true connections with others.",
-    "coverUrl": "images/How_to_listen_with_intention.png"
+    "coverUrl": "How_to_listen_with_intention.png"
 },
 {
     "title": "The Science of Self-Discipline: The Willpower, Mental Toughness and Self-Control to Resist Temptation and Achieve Your Goals",
     "author": "Peter Hollins",
     "price": 500,
     "description": "Examines the psychological principles behind self-discipline, offering techniques to build willpower, mental toughness, and self-control to achieve long-term goals.",
-    "coverUrl": "images/The_science_of_self_discipline.png"
+    "coverUrl": "The_science_of_self_discipline.png"
 },
 {
     "title": "Believe in Yourself",
     "author": "Dr. Joseph Murphy",
     "price": 500,
     "description": "Focuses on the power of the subconscious mind and positive thinking to help readers gain confidence, achieve goals, and transform their lives through self-belief.",
-    "coverUrl": "images/Believe_in_yourself.png"
+    "coverUrl": "Believe_in_yourself.png"
 },
 {
     "title": "The Art of Letting Go: Stop Overthinking, Stop Negative Spirals, and Find Emotional Freedom",
     "author": "Nick Trenton",
     "price": 500,
     "description": "Provides strategies to stop overthinking and negative thought patterns to achieve greater emotional freedom and mental peace.",
-    "coverUrl": "images/The_art_of_letting_go.jpg"
+    "coverUrl": "The_art_of_letting_go.jpg"
 },
 {
     "title": "The Power of Decision-Making: Your decisions decide your destiny",
     "author": "Manoj Tripathi",
     "price": 500,
     "description": "A guide emphasizing the crucial role of effective decision-making in shaping one's destiny and overall life success.",
-    "coverUrl": "images/The_power_of_decision_making.png"
+    "coverUrl": "The_power_of_decision_making.png"
 },
 {
     "title": "What Got You Here Won't Get You There: How Successful People Become Even More Successful",
     "author": "Marshall Goldsmith",
     "price": 500,
     "description": "Identifies common behavioral flaws that hold back highly successful people and offers advice on overcoming these habits to reach the next level of achievement.",
-    "coverUrl": "images/What_got_you_here_wont_get_you_there.jpg"
+    "coverUrl": "What_got_you_here_wont_get_you_there.jpg"
 },
 {
     "title": "The Laws of Human Nature",
     "author": "Robert Greene",
     "price": 500,
     "description": "A deep dive into the primal, hidden drivers of human behavior, offering strategies to understand people's motivations and master one's own impulses.",
-    "coverUrl": "images/The_laws_of_human_nature.png"
+    "coverUrl": "The_laws_of_human_nature.png"
 },
 {
     "title": "Make It Happen: Manifest the Life of Your Dreams",
