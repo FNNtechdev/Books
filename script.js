@@ -527,7 +527,7 @@ const blogs = [
     {
         title: "How Reading Transforms Your Brain",
         excerpt: "Science proves that reading literally changes your brain structure. Learn about the neurological benefits and cognitive advantages that come from regular reading habits.",
-        date: "2024-10-21",
+        date: "2025-10-21",
         quote: "Today a reader, tomorrow a leader."
     }
 ];
@@ -658,7 +658,7 @@ reviewForm.addEventListener('submit', (e) => {
 
     renderReviews();
     reviewForm.reset();
-    selectedRating = 5;
+    selectedRating = 4;
     ratingStars.forEach((s, index) => {
         if (index < selectedRating) {
             s.classList.add('active');
