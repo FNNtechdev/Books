@@ -319,6 +319,52 @@ html {
     transform: translateX(30px);
     background-color: #1f2937;
 }
+/* General link styling */
+a {
+  color: #1e40af; /* Royal blue */
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+  border-bottom: 2px solid transparent;
+}
+
+/* Hover effect */
+a:hover {
+  color: #d4af37; /* Gold on hover */
+  border-bottom: 2px solid #d4af37;
+}
+
+/* Active (when clicked) */
+a:active {
+  color: #0a58ca;
+}
+
+/* Visited link (optional – keep elegant) */
+a:visited {
+  color: #1e3a8a;
+}
+
+/* Add subtle glowing hover (optional) */
+a:hover {
+  text-shadow: 0 0 5px rgba(212, 175, 55, 0.6);
+}
+
+/* Buttons made from links */
+a.button-link {
+  background: #1e40af;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  display: inline-block;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+a.button-link:hover {
+  background: #d4af37;
+  color: #0a0a0a;
+  transform: translateY(-2px);
+}
+
 
 .theme-toggle-slider i {
     font-size: 12px;
