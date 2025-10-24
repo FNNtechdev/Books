@@ -460,6 +460,209 @@ const books = [
     "coverUrl": "The_psychology_of_being_that_girl.jpg"
 },
 {
+    "title": "Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life",
+    "author": "Jim Kwik",
+    "price": 500,
+    "description": "Techniques for upgrading your brain and accelerating learning.",
+    "coverUrl": "images/Limitless.jpg"
+  },
+  {
+    "title": "The Art of Positive Thinking",
+    "author": "Elizabeth P. Brown",
+    "price": 500,
+    "description": "A self-help book for developing mindfulness and overcoming negative thoughts.",
+    "coverUrl": "images/The_art_of_positive_thinking.jpg"
+  },
+  {
+    "title": "Things No One Else Can Teach Us",
+    "author": "Humble The Poet",
+    "price": 500,
+    "description": "Inspirational insights from the author of UNLEARN.",
+    "coverUrl": "images/Things_no_one_else_can_teach_us.jpg"
+  },
+  {
+    "title": "The Habit of Winning: Stories to Inspire, Motivate and Unleash the Winner within",
+    "author": "Prakash Iyer",
+    "price": 500,
+    "description": "Stories to inspire motivation and unleash inner potential.",
+    "coverUrl": "images/The_habit_of_winning.jpg"
+  },
+  {
+    "title": "Do Epic Shit",
+    "author": "Ankur Warikoo",
+    "price": 500,
+    "description": "A book of advice and motivation by Ankur Warikoo.",
+    "coverUrl": "images/Do_epic_shit.jpg"
+  },
+  {
+    "title": "Do What Works For You: A practical guide to align your actions with your authentic self",
+    "author": "Thibaut Meurisse",
+    "price": 500,
+    "description": "A guide for aligning actions with one's authentic self.",
+    "coverUrl": "images/Do_what_works_for_you.jpg"
+  },
+  {
+    "title": "Speak With No Fear: Go from a nervous, nauseated, and sweaty speaker to an excited, energized, and passionate presenter",
+    "author": "Mike Acker",
+    "price": 500,
+    "description": "A guide to overcoming public speaking anxiety.",
+    "coverUrl": "images/Speak_with_no_fear.jpg"
+  },
+  {
+    "title": "Stop Lying to Yourself: 101 Hard Truths to Help You Change Your Life",
+    "author": "Simon Gilham",
+    "price": 500,
+    "description": "101 truths intended to help readers change their lives.",
+    "coverUrl": "images/Stop_lying_to_yourself.jpg"
+  },
+  {
+    "title": "The Code of the Extraordinary Mind: 10 Unconventional Laws to Redefine Your Life & Succeed On Your Own Terms",
+    "author": "Vishen Lakhiani",
+    "price": 500,
+    "description": "10 unconventional laws to redefine life and achieve success.",
+    "coverUrl": "images/The_code_of_the_extraordinary_mind.jpg"
+  },
+  {
+    "title": "The Power of Your Subconscious Mind",
+    "author": "Dr Joseph Murphy",
+    "price": 500,
+    "description": "A classic guide on how to use the power of your subconscious mind to achieve success, health, and wealth.",
+    "coverUrl": "images/The_Power_of_Your_subconscious_mind.jpg"
+  },
+  {
+    "title": "Surrounded by Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood)",
+    "author": "Thomas Erikson",
+    "price": 500,
+    "description": "Explores the four basic personality types (Red, Yellow, Green, and Blue) and how to communicate with them.",
+    "coverUrl": "images/Surrounded_by_idiots.jpg"
+  },
+  {
+    "title": "How Money Works: Stop being a SUCKER",
+    "author": "Tom Mathews and Steve Siebold",
+    "price": 500,
+    "description": "A guide to improving financial literacy and taking control of your financial future.",
+    "coverUrl": "images/How_money_works.jpg"
+  },
+  {
+    "title": "Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline",
+    "author": "Peter Hollins",
+    "price": 500,
+    "description": "A handbook on developing self-discipline and overcoming the challenges of not finishing projects.",
+    "coverUrl": "images/Finish_what_you_start.jpg"
+  },
+  {
+    "title": "365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success",
+    "author": "Martin Meadows",
+    "price": 500,
+    "description": "Daily thoughts and reflections to build self-control and mental resilience over a year.",
+    "coverUrl": "images/365_days_with_self_discipline.jpg"
+  },
+  {
+    "title": "Build Don't Talk: Things You Wish You Were Taught in School",
+    "author": "Raj Shamani",
+    "price": 500,
+    "description": "A practical guide to the essential life skills (like finance, negotiation, and networking) that are not taught in school.",
+    "coverUrl": "images/Build_dont_talk.jpg"
+  },
+  {
+    "title": "How to Listen: Discover the hidden key to better communication",
+    "author": "Oscar Trimboli",
+    "price": 500,
+    "description": "A book focused on improving listening skills as a fundamental tool for better communication.",
+    "coverUrl": "images/How_to_listen.jpg"
+  },
+  {
+    "title": "How Rich People Think",
+    "author": "Steve Siebold",
+    "price": 500,
+    "description": "A look at the thinking and habits that separate the wealthy from the middle class.",
+    "coverUrl": "images/How_rich_people_think.jpg"
+  },
+  {
+    "title": "The Science of Attraction: What behavioral and evolutionary psychology can teach us about flirting, dating, and mating",
+    "author": "Patrick King",
+    "price": 500,
+    "description": "An in-depth look at the psychological and evolutionary mechanisms behind human attraction and connection.",
+    "coverUrl": "images/The_science_of_attraction.jpg"
+  },
+  {
+    "title": "To Be A Man: A Guide to True Masculine Power",
+    "author": "Robert Augustus Masters, PhD",
+    "price": 500,
+    "description": "A guide to exploring and understanding true masculine power and emotional integration.",
+    "coverUrl": "images/To_be_a_man.jpg"
+  },
+ {
+    "title": "Speak with Confidence",
+    "author": "Mike Acker",
+    "price": 500,
+    "description": "Overcome self-doubt, communicate clearly, and inspire your audience.",
+    "coverUrl": "images/Speak_with_confidence.jpg"
+},
+{
+    "title": "Master Your Potential",
+    "author": "Thibaut Meurisse",
+    "price": 500,
+    "description": "A practical guide to break free from limitations and start tapping into your greatness.",
+    "coverUrl": "images/Master_your_potential.jpg"
+},
+{
+    "title": "Master Your Thinking",
+    "author": "Thibaut Meurisse",
+    "price": 500,
+    "description": "A practical guide to align with reality and achieve tangible results in the real world.",
+    "coverUrl": "images/Master_your_thinking.jpg"
+},
+{
+    "title": "Master Your Focus",
+    "author": "Thibaut Meurisse",
+    "price": 500,
+    "description": "A practical guide to stop chasing the next thing and focus on what matters until it's done.",
+    "coverUrl": "images/Master_your_focus.jpg"
+},
+{
+    "title": "Dopamine Detox",
+    "author": "Thibaut Meurisse",
+    "price": 500,
+    "description": "A short guide to remove distractions and get your brain to do hard things.",
+    "coverUrl": "images/Dopamine_detox.jpg"
+},
+{
+    "title": "The First 90 Days",
+    "author": "Michael D. Watkins",
+    "price": 500,
+    "description": "Proven strategies for getting up to speed faster and smarter.",
+    "coverUrl": "images/The_first_90_days.jpg"
+},
+{
+    "title": "Hyperfocus",
+    "author": "Chris Bailey",
+    "price": 500,
+    "description": "How to work less and achieve more.",
+    "coverUrl": "images/Hyper_focus.jpg"
+},
+{
+    "title": "The Comfort Zone",
+    "author": "Kristen Butler",
+    "price": 500,
+    "description": "Create a life you really love with less stress and more flow.",
+    "coverUrl": "images/The_comfort_zone.jpg"
+},
+{
+    "title": "100 Lessons for a Quiet Mind and Powerful Life",
+    "author": "Mohammed Joynal Abedin",
+    "price": 500,
+    "description": "Calm your mind, sharpen your focus, build the life you deserve.",
+    "coverUrl": "images/100_lessons_of_a_quiet_mind_and_powerful_life.jpg"
+},
+{
+    "title": "You Become What You Think",
+    "author": "Shubham Kumar Singh",
+    "price": 500,
+    "description": "Master your mind, master your life.",
+    "coverUrl": "images/You_become_what_you_think.jpg"
+},
+{
         title: "The Power of Positive Thinking",
         author: "Norman Vincent Peale",
         price: 500,
