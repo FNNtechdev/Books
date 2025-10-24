@@ -527,7 +527,7 @@ const books = [
     "author": "Dr Joseph Murphy",
     "price": 500,
     "description": "A classic guide on how to use the power of your subconscious mind to achieve success, health, and wealth.",
-    "coverUrl": "The_Power_of_your_subconscious_mind.jpg"
+    "coverUrl": "The_power_of_your_subconscious_mind.jpg"
   },
   {
     "title": "Surrounded by Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood)",
