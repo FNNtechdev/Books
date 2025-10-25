@@ -1002,6 +1002,69 @@ const books = [
     description: "Gain an **unfair advantage** in every social interaction by mastering the art of human observation. This comprehensive guide teaches you the psychological tricks and non-verbal cues needed to quickly and accurately read body language, facial micro-expressions, and speech patterns. Learn how to **analyze and predict** people's true intentions, improve your influence, and navigate complex social situations with total confidence.",
     coverUrl: "Read_People_Like_A_Book.jpg"
 },
+     {
+        "title": "Hidden Potential: The Science of Achieving Greater Things",
+        "author": "Adam Grant",
+        "price": 500,
+        "description": "From the #1 New York Times bestselling author of *Think Again*, Adam Grant reveals a new framework for unlocking your greatness. This book shows that **hidden potential** is not about innate talent, but about the systems and strengths that allow you to constantly improve. Learn to build the character skills and supportive structures needed to achieve far more than you thought possible. As James Clear says, it 'reveals what it takes to become a better version of yourself.'",
+        "coverUrl": "Hidden_Potential_Adam_Grant.jpg"
+    },
+    {
+        "title": "The Power of Writing It Down: A Simple Habit to Unlock Your Brain and Reimagine Your Life",
+        "author": "Allison Fallon",
+        "price": 500,
+        "description": "Unlock your mind's true potential through the simple, transformative act of writing. Fallon shows you how to use journaling not just for reflection, but as a powerful tool to **unlock your brain**, process difficult emotions, and gain clarity on your life's path. Discover a practical, easy habit that helps you overcome creative blocks, reduce anxiety, and actively **reimagine and build the life you want**.",
+        "coverUrl": "The_Power_Of_Writing_It_Down.jpg"
+    },
+    {
+        "title": "Self Under Control: Definitive and practical guide to mastering the art of self-discipline using scientific principles and timeless wisdom",
+        "author": "Abhilash CS",
+        "price": 500,
+        "description": "Be the person you look at in awe by mastering the art of self-discipline. This definitive guide combines **scientific principles with timeless wisdom** to provide a clear path to gaining control over your habits, focus, and actions. Learn how to stop being a puppet to your impulses and use genuine **self-control** to consistently make choices that lead to long-term success and fulfillment.",
+        "coverUrl": "Self_Under_Control.jpg"
+    },
+    {
+        "title": "Leading with Dignity: How to Create a Culture That Brings Out the Best in People",
+        "author": "Donna Hicks, Ph.D.",
+        "price": 500,
+        "description": "Based on years of international conflict resolution, Dr. Donna Hicks reveals that **dignity** is the key to creating extraordinary teams and thriving relationships. This practical guide shows leaders and individuals how to foster a culture of respect, trust, and openness by recognizing and honoring the 10 elements of dignity. Learn to **bring out the best in people**, minimize conflict, and maximize performance in any setting.",
+        "coverUrl": "Leading_With_Dignity.jpg"
+    },
+    {
+        "title": "Stillness Is the Key: An Ancient Strategy for Modern Life",
+        "author": "Ryan Holiday",
+        "price": 500,
+        "description": "From the #1 New York Times bestselling author, Ryan Holiday draws on Stoicism, Buddhism, and Christianity to present **stillness** as the essential strategy for modern life. Learn how to cultivate mental calm, emotional control, and spiritual depth in a hyper-distracted world. This book is a powerful argument for slowing down, tuning out the noise, and accessing the **focused inner peace** required to achieve mastery and purpose.",
+        "coverUrl": "Stillness_Is_The_Key.jpg"
+    },
+    {
+        "title": "Introvert Power: Why Your Inner Life Is Your Hidden Strength",
+        "author": "Laurie Helgoe, Ph.D.",
+        "price": 500,
+        "description": "Challenge the societal bias towards extroversion and discover the profound gifts of the quiet temperament. Dr. Helgoe reframes introversion not as a flaw, but as a **rich source of power, creativity, and connection**. Learn how to harness your inner life for success, recharge effectively, and communicate your needs and strengths with confidence, proving that your **inner strength** is your greatest asset.",
+        "coverUrl": "Introvert_Power.jpg"
+    },
+    {
+        "title": "The Art of Self-Therapy: How to Grow, Gain Self-Awareness, & Understand Your Emotions",
+        "author": "Nick Trenton",
+        "price": 500,
+        "description": "Empower yourself to become your own best therapist. Nick Trenton provides practical, easy-to-use techniques rooted in psychology for deepening your **self-awareness** and achieving profound personal growth. Learn to understand your emotions, challenge negative beliefs, and effectively heal from past experiences, giving you the tools to guide your own journey toward **emotional clarity and fulfillment**.",
+        "coverUrl": "The_Art_Of_Self_Therapy.jpg"
+    },
+    {
+        "title": "Don't Believe Everything You Think: Why your thinking is the beginning and end of suffering",
+        "author": "Joseph Nguyen",
+        "price": 500,
+        "description": "This #1 international bestseller offers a simple yet life-changing truth: **your thoughts are not reality, and they are the source of all suffering**. Joseph Nguyen provides a clear, insightful guide to recognizing the mind's endless chatter as noise. By shifting your relationship with your own thinking, you can find immediate freedom, peace, and an end to self-inflicted anxiety.",
+        "coverUrl": "Dont_Believe_Everything_You_Think.jpg"
+    },
+    {
+        "title": "“It always seems impossible until it’s done.”: Motivation for Dreamers & Doers",
+        "author": "Kathryn & Ross Petras",
+        "price": 500,
+        "description": "A pocket-sized book packed with powerful **motivation for dreamers and doers** alike. This collection of quotes and insights, inspired by Nelson Mandela's famous words, is designed to fuel your ambition, overcome procrastination, and remind you that every great achievement once seemed impossible. Keep it close for a daily dose of courage to pursue your biggest goals.",
+        "coverUrl": "It_Always_Seems_Impossible.jpg"
+    },
 {
         title: "The Power of Positive Thinking",
         author: "Norman Vincent Peale",
