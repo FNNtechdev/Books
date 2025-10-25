@@ -888,119 +888,119 @@ const books = [
     {
     title: "Take Your Life Back: How to Stop Letting the Past and Other People Control You",
     author: "Stephen Arterburn, M.Ed. and David Stoop, Ph.D.",
-    price: 660,
+    price: 500,
     description: "Are you living life as a puppet to past hurts or the demands of others? This essential recovery guide empowers you to **cut the emotional strings** that keep you stuck. Arterburn and Stoop provide practical, faith-based tools to help you identify the sources of external control, **heal from old wounds**, and establish healthy boundaries. Learn to reclaim your personal freedom and **take courageous control** over your own choices and destiny.",
-    coverUrl: "images/Take_Your_Life_Back.jpg"
+    coverUrl: "Take_Your_Life_Back.jpg"
 },
     {
     title: "Emotional Intelligence Habits: A Powerful New Way to Increase Your Emotional Intelligence",
     author: "Travis Bradberry",
-    price: 730,
+    price: 500,
     description: "From the bestselling author of *Emotional Intelligence 2.0*, this book is your practical blueprint for making emotional intelligence an automatic part of your life. It teaches you **daily, micro-habits** that seamlessly integrate powerful EI skills into your routine, allowing you to quickly **change your habits and change your life**. Learn to master your emotions, navigate complex social situations, and improve both your personal and professional relationships with ease.",
-    coverUrl: "images/Emotional_Intelligence_Habits.jpg"
+    coverUrl: "Emotional_Intelligence_Habits.jpg"
 },
     {
     title: "Attitude Is Everything (Revised Edition): 10 Life-Changing Steps to Turning Attitude into Action",
     author: "Keith Harrell",
-    price: 550,
+    price: 500,
     description: "Anthony Robbins calls this book a guide that 'illuminates solid techniques to take your life to new heights!' This revised edition provides a **clear, ten-step program** for harnessing the massive power of your mindset. Learn how to eliminate toxic thought patterns, cultivate genuine optimism, and, most critically, translate that positive **attitude into consistent, powerful action**. It’s the ultimate guide for anyone ready to embrace enthusiasm and achieve peak personal fulfillment.",
-    coverUrl: "images/Attitude_Is_Everything.jpg"
+    coverUrl: "Attitude_Is_Everything.jpg"
 },
     {
     title: "Do the Impossible: How to Become Extraordinary and Impact the World at Scale",
     author: "Thibaut Meurisse",
-    price: 520,
+    price: 500,
     description: "Stop settling for average and start aiming for the extraordinary. This high-impact guide provides the specific mindset shifts and practical strategies needed to set truly massive goals and **achieve what others deem impossible**. Meurisse shows you how to overcome self-limiting beliefs, cultivate ruthless focus, and execute large-scale projects, empowering you to **become an extraordinary individual** who leaves a lasting impact on the world.",
-    coverUrl: "images/Do_The_Impossible.jpg"
+    coverUrl: "Do_The_Impossible.jpg"
 },
     {
     title: "What's Your Dream?: Find your passion. Love your work. Build a richer life.",
     author: "Simon Squibb",
-    price: 580,
+    price: 500,
     description: "Tired of dreaming without acting? Simon Squibb, entrepreneur and podcast host, delivers a motivational kick to stop you from giving up on your goals and start building the life you truly want. Praised by Jay Shetty, this vibrant guide offers **inspirational stories and actionable steps** to help you **discover your true passion**, align it with fulfilling work, and systematically build a life that feels authentic, meaningful, and genuinely richer.",
-    coverUrl: "images/Whats_Your_Dream.jpg"
+    coverUrl: "Whats_Your_Dream.jpg"
 },
     {
     title: "The Power of Women: A Doctor's Journey of Hope and Healing",
     author: "Dr. Denis Mukwege",
-    price: 790,
+    price: 500,
     description: "From Nobel Peace Prize laureate Dr. Denis Mukwege, this deeply moving memoir and powerful manifesto is a testament to the resilience of women. Mukwege recounts his life's work as a surgeon dedicated to helping survivors of sexual violence, revealing the profound cruelty of war but also the **unyielding strength, courage, and healing power of women**. This book is a beacon of hope and a stirring call to action for equality, justice, and recognizing the essential dignity of every woman.",
-    coverUrl: "images/The_Power_Of_Women.jpg"
+    coverUrl: "The_Power_Of_Women.jpg"
 },
 {
     title: "Your Difference Is Your Strength: A Guide to Accepting Yourself—For Anyone Who Has Ever Felt Out of Place",
     author: "Kris Ferraro",
-    price: 530,
+    price: 500,
     description: "For anyone who has ever felt like they didn't quite belong, this book offers a profound message of self-acceptance and empowerment. Ferraro, author of *Manifesting*, teaches you how to stop hiding the parts of yourself that are unique and instead recognize that your perceived 'flaws' are actually your **greatest assets**. This is a warm, insightful guide to embracing your authentic self and realizing that your **difference is the source of your truest power**.",
-    coverUrl: "images/Your_Difference_Is_Your_Strength.jpg"
+    coverUrl: "Your_Difference_Is_Your_Strength.jpg"
 },
     {
     title: "55 Questions to Ask Yourself (Across 8 dimensions for a new you!)",
     author: "Manoj Chenthamarakshan",
-    price: 460,
+    price: 500,
     description: "Transformation begins with the right questions. This book provides a deeply reflective set of **55 powerful questions** designed to probe eight critical dimensions of your life: from mental clarity and personal values to professional success. Use this guided inquiry to gain profound **self-awareness**, identify your core beliefs, and create a targeted, actionable plan for **becoming a 'new you'** with purpose and direction.",
-    coverUrl: "images/55_Questions_To_Ask_Yourself.jpg"
+    coverUrl: "55_Questions_To_Ask_Yourself.jpg"
 },
 
 
 {
     title: "Your Next Five Moves: Master the Art of Business Strategy",
     author: "Patrick Bet-David with Greg Dinkin",
-    price: 740,
+    price: 500,
     description: "Master the mindset of a chess player in business and life. Praised by Ray Dalio, this book by entrepreneur Patrick Bet-David teaches you how to **think strategically by looking five steps ahead**. Learn how to identify your current position, predict competitors' actions, and build a cohesive, long-term strategy for dominating your field, giving you the **strategic edge** to build an empire.",
-    coverUrl: "images/Your_Next_Five_Moves.jpg"
+    coverUrl: "Your_Next_Five_Moves.jpg"
 },
     {
     title: "Learn to Earn: A Beginner's Guide to the Basics of Investing and Business",
     author: "Peter Lynch and John Rothchild",
-    price: 680,
+    price: 500,
     description: "Start your financial journey with a **classic guide** from legendary investor **Peter Lynch**. This book is the perfect primer for young or new investors, explaining the fundamentals of the stock market and business through clear, accessible language. It teaches you to use the knowledge you already have about companies and products to make smart investment decisions, helping you **learn to earn** your financial independence.",
-    coverUrl: "images/Learn_To_Earn.jpg"
+    coverUrl: "Learn_To_Earn.jpg"
 },
     {
     title: "The Art of Thinking Clearly",
     author: "Rolf Dobelli",
-    price: 600,
+    price: 500,
     description: "Nicholas Nassim Taleb calls this book a masterpiece of 'imagination and realism.' Rolf Dobelli identifies **52 common cognitive biases**—simple thinking errors—that sabotage our decisions and happiness. This million-copy bestseller is an essential guide for anyone who wants to **improve judgment and decision-making**. By learning to avoid these pitfalls, you will think more rationally and achieve greater clarity in all aspects of life.",
-    coverUrl: "images/The_Art_of_Thinking_Clearly.jpg"
+    coverUrl: "The_Art_of_Thinking_Clearly.jpg"
 },
     {
     title: "How to Stop Worrying and Start Living",
     author: "Dale Carnegie",
     price: 500,
     description: "A **timeless classic** that has helped millions conquer anxiety and live a more joyful life. Dale Carnegie provides **time-tested methods** for breaking the worry habit and transforming it into positive action. Learn the magic formula for solving worry problems, how to relax and avoid fatigue, and simple techniques for banishing the 'worry habit' forever. This book is the definitive guide to **finding peace of mind**.",
-    coverUrl: "images/How_to_Stop_Worrying_and_Start_Living.jpg"
+    coverUrl: "How_to_Stop_Worrying_and_Start_Living.jpg"
 },
     {
     title: "Master Your Emotions: A Practical Guide to Overcome Negativity and Better Manage Your Feelings",
     author: "Thibaut Meurisse",
-    price: 470,
+    price: 500,
     description: "From the bestselling author of *Master Your Motivation*, this practical guide provides the tools to **take full control of your emotional life**. Learn how to identify the root causes of negative feelings, shift your mindset, and develop effective strategies for managing stress, anger, and fear. It is a clear, actionable roadmap to achieving emotional resilience and **lasting inner peace**.",
-    coverUrl: "images/Master_Your_Emotions.jpg"
+    coverUrl: "Master_Your_Emotions.jpg"
 },
 
 {
     title: "The Art of Conscious Conversations: Transforming How We Talk, Listen, and Interact",
     author: "Chuck Wisner",
-    price: 570,
+    price: 500,
     description: "Transform your relationships—both personal and professional—by mastering the way you communicate. Chuck Wisner introduces the concept of **Conscious Conversations**, offering simple, powerful frameworks to move beyond surface-level chatter to **deep, authentic connection**. Learn to listen more effectively, ask more insightful questions, and interact in ways that build trust and solve problems, fundamentally improving your human interactions.",
-    coverUrl: "images/The_Art_Of_Conscious_Conversations.jpg"
+    coverUrl: "The_Art_Of_Conscious_Conversations.jpg"
 },
     
 {
     title: "The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth",
     author: "Susan J. Ashford",
-    price: 650,
+    price: 500,
     description: "Named the best book on personal effectiveness by Daniel H. Pink, this guide shows you a simple yet radical path to professional and personal growth. Susan J. Ashford reveals the secret to success lies in **'flexing'**: using small, strategic daily experiments—like stepping outside your comfort zone—to build new skills and create big changes. It’s an empowering approach to learning that prioritizes **actionable growth over static planning**.",
-    coverUrl: "images/The_Power_Of_Flexing.jpg"
+    coverUrl: "The_Power_Of_Flexing.jpg"
 },
     
 {
     title: "Read People Like a Book: How to Analyze, Understand, and Predict People’s Emotions, Thoughts, Intentions, and Behaviors",
     author: "Patrick King",
-    price: 510,
+    price: 500,
     description: "Gain an **unfair advantage** in every social interaction by mastering the art of human observation. This comprehensive guide teaches you the psychological tricks and non-verbal cues needed to quickly and accurately read body language, facial micro-expressions, and speech patterns. Learn how to **analyze and predict** people's true intentions, improve your influence, and navigate complex social situations with total confidence.",
-    coverUrl: "images/Read_People_Like_A_Book.jpg"
+    coverUrl: "Read_People_Like_A_Book.jpg"
 },
 {
         title: "The Power of Positive Thinking",
