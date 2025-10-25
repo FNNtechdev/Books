@@ -685,6 +685,51 @@ const books = [
   description: "Cate Sevilla offers a refreshingly real guide to surviving modern work life. Through honest stories, practical advice, and humor, she helps you navigate burnout, imposter syndrome, toxic workplaces, and the pressure to 'have it all.' 'How to Work Without Losing Your Mind' is the comforting yet empowering handbook every professional needs to protect their peace and rediscover joy in what they do.",
   coverUrl: "images/How_to_Work_Without_Losing_Your_Mind.jpg"
 },
+    {
+    title: "How to Tell a Story: The Essential Guide to Memorable Storytelling from The Moth",
+    author: "Meg Bowles, Catherine Burns, Jenifer Hixson, Sarah Austin Jenness, and Kate Tellers",
+    price: 500,
+    description: "Unlock the secret to connecting with any audience. Based on decades of experience from the acclaimed storytelling organization, **The Moth**, this guide provides the essential tools, tips, and exercises to craft and deliver your most **compelling and authentic true-life stories**. Learn how to find your voice, structure your narrative, and move listeners—a must-have for anyone who wants to communicate with greater impact.",
+    coverUrl: "images/How_to_Tell_a_Story.jpg"
+},
+    {
+    title: "The World Beyond Your Head: How to Flourish in an Age of Distraction",
+    author: "Matthew Crawford",
+    price: 500,
+    description: "In an age of endless distractions, this thought-provoking book argues for the value of **focused attention and skilled engagement** with the world. Crawford pushes back against the 'inward turn' of modern life, showing how our deep, practical engagement with real, complex things—from craftsmanship to music—can restore our sense of self and help us **flourish amid the noise**. Discover how to reclaim your focus and find genuine meaning outside the echo chamber of your own thoughts.",
+    coverUrl: "images/The_World_Beyond_Your_Head.jpg"
+},
+{
+    title: "How to Stop Breaking Your Own Heart",
+    author: "Susan Roxanne",
+    price: 500,
+    description: "A gentle yet powerful guide to ending the cycle of self-sabotage and finding inner peace. From the founder of **@thegoodquote**, this book provides the practical tools and profound insights needed to identify self-limiting beliefs and heal old wounds. Learn to cultivate **self-compassion, set healthy boundaries, and finally treat yourself with the love and respect you deserve**. Start living a life fueled by self-acceptance, not self-criticism.",
+    coverUrl: "images/How_to_Stop_Breaking_Your_Own_Heart.jpg"
+},
+
+{
+    title: "That Sucked. Now What?: How to Embrace the Joy in Chaos and Find Magic in the Mess",
+    author: "Dr. Neeta Bhushan",
+    price: 500,
+    description: "Life's setbacks are inevitable, but your reaction is a choice. This **empowering guide** shows you how to turn every disappointment, failure, and chaotic moment into a powerful opportunity for growth. Dr. Neeta Bhushan introduces her revolutionary **'Brave Table' framework** for navigating difficulty, helping you shift your perspective to find the **'magic in the mess,'** build resilience, and move forward with clarity and courage.",
+    coverUrl: "images/That_Sucked_Now_What.jpg"
+},
+    {
+    title: "The Overthinking Cure: How to Stay in the Present, Shake Negativity, and Stop Your Stress and Anxiety",
+    author: "Nick Trenton",
+    price: 500,
+    description: "**Silence the endless mental chatter** and regain control of your life. This book offers simple, science-backed strategies to help you escape the trap of analysis paralysis. Learn how to **stay grounded in the present moment**, identify and dismantle negative thought patterns, and significantly reduce your stress and anxiety. It’s a practical, accessible roadmap to a clearer, calmer, and more focused mind.",
+    coverUrl: "images/The_Overthinking_Cure.jpg"
+},
+
+{
+    title: "The No Complaining Rule: Positive Ways to Deal with Negativity at Work",
+    author: "Jon Gordon",
+    price: 500,
+    description: "Transform your team and your workplace culture by tackling the single biggest source of negativity: complaining. In this **powerful business fable**, Jon Gordon provides a simple yet revolutionary framework to inspire personal responsibility and positive action. Implement the 'No Complaining Rule' and learn to focus on **solutions, not problems**, leading to higher morale, greater energy, and improved productivity for everyone.",
+    coverUrl: "images/The_No_Complaining_Rule.jpg"
+},
+
 
 {
         title: "The Power of Positive Thinking",
