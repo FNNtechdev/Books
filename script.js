@@ -662,6 +662,30 @@ const books = [
     "description": "Master your mind, master your life.",
     "coverUrl": "You_become_what_you_think.jpg"
 },
+    {
+  title: "How to Chase Change",
+  author: "Alexis Fernandez-Preiksa",
+  price: 500,
+  description: "Transform your mindset in just 30 days with Alexis Fernandez-Preiksa’s powerful guide to personal growth. 'How to Chase Change' combines neuroscience, psychology, and daily mindset exercises to help you break habits, rewire your thoughts, and embrace positive transformation. A practical roadmap for anyone ready to become their best self.",
+  coverUrl: "images/How_to_Chase_Change.jpg"
+},
+
+{
+  title: "How to Stop Feeling Like Sh*t",
+  author: "Andrea Owen",
+  price: 500,
+  description: "In this brutally honest yet empowering book, Andrea Owen reveals 14 habits that hold you back from happiness and self-confidence. With humor, compassion, and tough love, she teaches you how to stop self-sabotage, silence inner criticism, and finally build the emotional strength to thrive. A must-read for anyone ready to break free from their own limits.",
+  coverUrl: "images/How_to_Stop_Feeling_Like_Shit.jpg"
+},
+
+{
+  title: "How to Work Without Losing Your Mind",
+  author: "Cate Sevilla",
+  price: 500,
+  description: "Cate Sevilla offers a refreshingly real guide to surviving modern work life. Through honest stories, practical advice, and humor, she helps you navigate burnout, imposter syndrome, toxic workplaces, and the pressure to 'have it all.' 'How to Work Without Losing Your Mind' is the comforting yet empowering handbook every professional needs to protect their peace and rediscover joy in what they do.",
+  coverUrl: "images/How_to_Work_Without_Losing_Your_Mind.jpg"
+},
+
 {
         title: "The Power of Positive Thinking",
         author: "Norman Vincent Peale",
