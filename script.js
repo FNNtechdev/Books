@@ -460,7 +460,7 @@ const books = [
     "coverUrl": "The_psychology_of_being_that_girl.jpg"
 },
 {
-    "title": "Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life",
+    "title": "Limitless:",
     "author": "Jim Kwik",
     "price": 500,
     "description": "Techniques for upgrading your brain and accelerating learning.",
@@ -481,7 +481,7 @@ const books = [
     "coverUrl": "Things_no_one_else_can_teach_us.jpg"
   },
   {
-    "title": "The Habit of Winning: Stories to Inspire, Motivate and Unleash the Winner within",
+    "title": "The Habit of Winning:",
     "author": "Prakash Iyer",
     "price": 500,
     "description": "Stories to inspire motivation and unleash inner potential.",
@@ -495,14 +495,14 @@ const books = [
     "coverUrl": "Do_epic_shit.jpg"
   },
   {
-    "title": "Do What Works For You: A practical guide to align your actions with your authentic self",
+    "title": "Do What Works For You:",
     "author": "Thibaut Meurisse",
     "price": 500,
     "description": "A guide for aligning actions with one's authentic self.",
     "coverUrl": "Do_what_works_for_you.jpg"
   },
   {
-    "title": "Speak With No Fear: Go from a nervous, nauseated, and sweaty speaker to an excited, energized, and passionate presenter",
+    "title": "Speak With No Fear:",
     "author": "Mike Acker",
     "price": 500,
     "description": "A guide to overcoming public speaking anxiety.",
@@ -516,7 +516,7 @@ const books = [
     "coverUrl": "Stop_lying_to_yourself.jpg"
   },
   {
-    "title": "The Code of the Extraordinary Mind: 10 Unconventional Laws to Redefine Your Life & Succeed On Your Own Terms",
+    "title": "The Code of the Extraordinary Mind:",
     "author": "Vishen Lakhiani",
     "price": 500,
     "description": "10 unconventional laws to redefine life and achieve success.",
@@ -530,7 +530,7 @@ const books = [
     "coverUrl": "The_power_of_your_subconscious_mind.jpg"
   },
   {
-    "title": "Surrounded by Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood)",
+    "title": "Surrounded by Idiots:",
     "author": "Thomas Erikson",
     "price": 500,
     "description": "Explores the four basic personality types (Red, Yellow, Green, and Blue) and how to communicate with them.",
@@ -544,14 +544,14 @@ const books = [
     "coverUrl": "How_money_works.jpg"
   },
   {
-    "title": "Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline",
+    "title": "Finish What You Start:",
     "author": "Peter Hollins",
     "price": 500,
     "description": "A handbook on developing self-discipline and overcoming the challenges of not finishing projects.",
     "coverUrl": "Finish_what_you_start.jpg"
   },
   {
-    "title": "365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success",
+    "title": "365 Days With Self-Discipline:",
     "author": "Martin Meadows",
     "price": 500,
     "description": "Daily thoughts and reflections to build self-control and mental resilience over a year.",
