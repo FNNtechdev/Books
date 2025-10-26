@@ -579,7 +579,7 @@ const books = [
     "coverUrl": "How_rich_people_think.jpg"
   },
   {
-    "title": "The Science of Attraction: What behavioral and evolutionary psychology can teach us about flirting, dating, and mating",
+    "title": "The Science of Attraction:",
     "author": "Patrick King",
     "price": 500,
     "description": "An in-depth look at the psychological and evolutionary mechanisms behind human attraction and connection.",
