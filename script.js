@@ -891,7 +891,7 @@ const books = [
     author: "Travis Bradberry",
     price: 500,
     description: "From the bestselling author of *Emotional Intelligence 2.0*, this book is your practical blueprint for making emotional intelligence an automatic part of your life. It teaches you **daily, micro-habits** that seamlessly integrate powerful EI skills into your routine, allowing you to quickly **change your habits and change your life**. Learn to master your emotions, navigate complex social situations, and improve both your personal and professional relationships with ease.",
-    coverUrl: "Emotional_intelligence_habits.jpg"
+    coverUrl: "Emotional_Intelligence_habits.jpg"
 },
     {
     title: "Attitude Is Everything (Revised Edition): 10 Life-Changing Steps to Turning Attitude into Action",
