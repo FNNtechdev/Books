@@ -1008,7 +1008,7 @@ const books = [
         "author": "Allison Fallon",
         "price": 500,
         "description": "Unlock your mind's true potential through the simple, transformative act of writing. Fallon shows you how to use journaling not just for reflection, but as a powerful tool to **unlock your brain**, process difficult emotions, and gain clarity on your life's path. Discover a practical, easy habit that helps you overcome creative blocks, reduce anxiety, and actively **reimagine and build the life you want**.",
-        "coverUrl": "The_power_of_writing_it_down.jpg"
+        "coverUrl": "The_power_of_writing_down.jpg"
     },
     {
         "title": "Self Under Control: Definitive and practical guide to mastering the art of self-discipline using scientific principles and timeless wisdom",
@@ -1057,7 +1057,7 @@ const books = [
         "author": "Kathryn & Ross Petras",
         "price": 500,
         "description": "A pocket-sized book packed with powerful **motivation for dreamers and doers** alike. This collection of quotes and insights, inspired by Nelson Mandela's famous words, is designed to fuel your ambition, overcome procrastination, and remind you that every great achievement once seemed impossible. Keep it close for a daily dose of courage to pursue your biggest goals.",
-        "coverUrl":"It_alwsys_seems_impossible_until_its_done.jpg"
+        "coverUrl":"It_always_seems_impossible_until_its_done.jpg"
     },
 {
         title: "The Power of Positive Thinking",
