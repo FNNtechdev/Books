@@ -683,7 +683,7 @@ const books = [
   author: "Cate Sevilla",
   price: 500,
   description: "Cate Sevilla offers a refreshingly real guide to surviving modern work life. Through honest stories, practical advice, and humor, she helps you navigate burnout, imposter syndrome, toxic workplaces, and the pressure to 'have it all.' 'How to Work Without Losing Your Mind' is the comforting yet empowering handbook every professional needs to protect their peace and rediscover joy in what they do.",
-  coverUrl: "How_to_work_without_losing_your_mind.jpg"
+  coverUrl: "How_to_work_without_losing_mind.jpg"
 },
     {
     title: "How to Tell a Story: The Essential Guide to Memorable Storytelling from The Moth",
