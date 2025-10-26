@@ -773,7 +773,7 @@ const books = [
     author: "Sahil Bloom",
     price: 500,
     description: "Move beyond money and redefine what it means to be truly rich. Bestselling author Sahil Bloom introduces a powerful framework for achieving holistic abundance by focusing on the **five pillars of wealth: Time, Social, Mental, Physical, and Financial**. This transformative guide offers practical, actionable strategies to optimize these five areas, helping you design a life that is not just financially successful, but also **balanced, purposeful, and deeply fulfilling**.",
-    coverUrl: "The_five_types_of_wealth.jpg"
+    coverUrl: "The_5_types_of_wealth.jpg"
 },
     {
     title: "Grow the F*ck Up: How to be an adult and get treated like one",
@@ -832,7 +832,7 @@ const books = [
     author: "Ichiro Kishimi and Fumitake Koga",
     price: 500,
     description: "The highly anticipated sequel to the global phenomenon, *The Courage to Be Disliked* (which sold over 2 million copies). Continuing the philosophical dialogue, this book dives deeper into **Adlerian psychology** to show you how to move from mere contentment to genuine, lasting happiness. Learn the revolutionary secret to finding satisfaction in work, love, and life, and discover the **courage it takes to choose happiness** every single day, regardless of external circumstances.",
-    coverUrl: "The_courage_to_be_happy.jpg"
+    coverUrl: "The_courage_be_happy.jpg"
 },
     {
     title: "Win Your Inner Battles: Defeat the Enemy Within and Live With Purpose",
@@ -891,7 +891,7 @@ const books = [
     author: "Travis Bradberry",
     price: 500,
     description: "From the bestselling author of *Emotional Intelligence 2.0*, this book is your practical blueprint for making emotional intelligence an automatic part of your life. It teaches you **daily, micro-habits** that seamlessly integrate powerful EI skills into your routine, allowing you to quickly **change your habits and change your life**. Learn to master your emotions, navigate complex social situations, and improve both your personal and professional relationships with ease.",
-    coverUrl: "Emotional_intelligence.jpg"
+    coverUrl: "Emotional_intelligence_habits.jpg"
 },
     {
     title: "Attitude Is Everything (Revised Edition): 10 Life-Changing Steps to Turning Attitude into Action",
