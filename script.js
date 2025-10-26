@@ -667,7 +667,7 @@ const books = [
   author: "Alexis Fernandez-Preiksa",
   price: 500,
   description: "Transform your mindset in just 30 days with Alexis Fernandez-Preiksa’s powerful guide to personal growth. 'How to Chase Change' combines neuroscience, psychology, and daily mindset exercises to help you break habits, rewire your thoughts, and embrace positive transformation. A practical roadmap for anyone ready to become their best self.",
-  coverUrl: "How_to_Chase_Change.jpg"
+  coverUrl: "How_to_chase_change.jpg"
 },
 
 {
@@ -675,7 +675,7 @@ const books = [
   author: "Andrea Owen",
   price: 500,
   description: "In this brutally honest yet empowering book, Andrea Owen reveals 14 habits that hold you back from happiness and self-confidence. With humor, compassion, and tough love, she teaches you how to stop self-sabotage, silence inner criticism, and finally build the emotional strength to thrive. A must-read for anyone ready to break free from their own limits.",
-  coverUrl: "How_to_Stop_Feeling_Like_Shit.jpg"
+  coverUrl: "How_to_stop_feeling_like_shit.jpg"
 },
 
 {
@@ -683,43 +683,37 @@ const books = [
   author: "Cate Sevilla",
   price: 500,
   description: "Cate Sevilla offers a refreshingly real guide to surviving modern work life. Through honest stories, practical advice, and humor, she helps you navigate burnout, imposter syndrome, toxic workplaces, and the pressure to 'have it all.' 'How to Work Without Losing Your Mind' is the comforting yet empowering handbook every professional needs to protect their peace and rediscover joy in what they do.",
-  coverUrl: "How_to_Work_Without_Losing_Your_Mind.jpg"
+  coverUrl: "How_to_work_without_losing_your_mind.jpg"
 },
     {
     title: "How to Tell a Story: The Essential Guide to Memorable Storytelling from The Moth",
     author: "Meg Bowles, Catherine Burns, Jenifer Hixson, Sarah Austin Jenness, and Kate Tellers",
     price: 500,
     description: "Unlock the secret to connecting with any audience. Based on decades of experience from the acclaimed storytelling organization, **The Moth**, this guide provides the essential tools, tips, and exercises to craft and deliver your most **compelling and authentic true-life stories**. Learn how to find your voice, structure your narrative, and move listeners—a must-have for anyone who wants to communicate with greater impact.",
-    coverUrl: "How_to_Tell_a_Story.jpg"
+    coverUrl: "How_to_tell_a_story.jpg"
 },
     {
     title: "The World Beyond Your Head: How to Flourish in an Age of Distraction",
     author: "Matthew Crawford",
     price: 500,
     description: "In an age of endless distractions, this thought-provoking book argues for the value of **focused attention and skilled engagement** with the world. Crawford pushes back against the 'inward turn' of modern life, showing how our deep, practical engagement with real, complex things—from craftsmanship to music—can restore our sense of self and help us **flourish amid the noise**. Discover how to reclaim your focus and find genuine meaning outside the echo chamber of your own thoughts.",
-    coverUrl: "The_World_Beyond_Your_Head.jpg"
+    coverUrl: "The_world_beyond_your_head.jpg"
 },
-{
-    title: "How to Stop Breaking Your Own Heart",
-    author: "Susan Roxanne",
-    price: 500,
-    description: "A gentle yet powerful guide to ending the cycle of self-sabotage and finding inner peace. From the founder of **@thegoodquote**, this book provides the practical tools and profound insights needed to identify self-limiting beliefs and heal old wounds. Learn to cultivate **self-compassion, set healthy boundaries, and finally treat yourself with the love and respect you deserve**. Start living a life fueled by self-acceptance, not self-criticism.",
-    coverUrl: "How_to_Stop_Breaking_Your_Own_Heart.jpg"
-},
+
 
 {
     title: "That Sucked. Now What?: How to Embrace the Joy in Chaos and Find Magic in the Mess",
     author: "Dr. Neeta Bhushan",
     price: 500,
     description: "Life's setbacks are inevitable, but your reaction is a choice. This **empowering guide** shows you how to turn every disappointment, failure, and chaotic moment into a powerful opportunity for growth. Dr. Neeta Bhushan introduces her revolutionary **'Brave Table' framework** for navigating difficulty, helping you shift your perspective to find the **'magic in the mess,'** build resilience, and move forward with clarity and courage.",
-    coverUrl: "That_Sucked_Now_What.jpg"
+    coverUrl: "That_sucked.jpg"
 },
     {
     title: "The Overthinking Cure: How to Stay in the Present, Shake Negativity, and Stop Your Stress and Anxiety",
     author: "Nick Trenton",
     price: 500,
     description: "**Silence the endless mental chatter** and regain control of your life. This book offers simple, science-backed strategies to help you escape the trap of analysis paralysis. Learn how to **stay grounded in the present moment**, identify and dismantle negative thought patterns, and significantly reduce your stress and anxiety. It’s a practical, accessible roadmap to a clearer, calmer, and more focused mind.",
-    coverUrl: "The_Overthinking_Cure.jpg"
+    coverUrl: "The_overthinking_cure.jpg"
 },
 
 {
@@ -727,7 +721,7 @@ const books = [
     author: "Jon Gordon",
     price: 500,
     description: "Transform your team and your workplace culture by tackling the single biggest source of negativity: complaining. In this **powerful business fable**, Jon Gordon provides a simple yet revolutionary framework to inspire personal responsibility and positive action. Implement the 'No Complaining Rule' and learn to focus on **solutions, not problems**, leading to higher morale, greater energy, and improved productivity for everyone.",
-    coverUrl: "The_No_Complaining_Rule.jpg"
+    coverUrl: "The_no_complaining_rule.jpg"
 },
 
 {
@@ -735,28 +729,28 @@ const books = [
     author: "Meggan Roxanne",
     price: 500,
     description: "End the painful cycle of self-sabotage and learn to heal your deepest emotional wounds. Meggan Roxanne, founder of **@thegoodquote**, offers a compassionate and insightful guide to recognizing and dismantling the self-limiting beliefs that hold you back. This book is a pathway to **radical self-acceptance**, teaching you to cultivate kindness towards yourself and build a resilient foundation for a life filled with genuine self-love. **Jay Shetty** calls it a book whose words 'have the power to make you feel seen, understood, and less alone.'",
-    coverUrl: "How_to_Stop_Breaking_Your_Own_Heart_Cover_2.jpg"
+    coverUrl: "How_to_stop_breaking_your_heart.jpg"
 },
    {
     title: "Brain Hacks: 200+ Ways to Boost Your Brain Power",
     author: "Innovation Press (Various Contributors)",
     price: 500,
     description: "Supercharge your mental capabilities with **over 200 actionable, science-backed strategies** designed to enhance every aspect of your cognition. Whether you want to **improve focus, manage emotions, unlock creativity, or boost memory**, this comprehensive guide provides quick, powerful 'hacks' for daily life. It's a fun and practical way to expand your vocabulary, reduce stress, and permanently **increase your overall brain power**.",
-    coverUrl: "Brain_Hacks_200_Ways.jpg"
+    coverUrl: "Brain_hacks.jpg"
 },
     {
     title: "The Science of Beauty: Debunk the myths and discover what goes into your beauty routine",
     author: "Dr. Michelle Wong (DK)",
     price: 500,
     description: "Get the truth behind your skincare and beauty products with this **visually stunning and rigorously scientific guide** from cosmetic chemist Dr. Michelle Wong. Move past the marketing hype and learn the **real chemistry** behind ingredients, routines, and beauty trends. This book debunks common myths, explains how your skin works, and empowers you to make **smart, evidence-based choices** for your most effective and personalized beauty regimen.",
-    coverUrl: "The_Science_of_Beauty_DK.jpg"
+    coverUrl: "The_science_of_beauty.jpg"
 },
     {
     title: "Neuro-Habits: Rewire Your Brain to Stop Self-Defeating Behaviors and Make the Right Choice Every Time",
     author: "Peter Hollins",
     price: 500,
     description: "Tired of fighting your own worst tendencies? This essential guide uses the power of **neuroscience** to help you understand and **permanently change your behavior**. Learn simple yet effective techniques to bypass your brain’s natural resistance to change, eliminate self-defeating patterns, and install high-performance habits. It’s a practical, step-by-step blueprint for **rewiring your brain** to consistently make choices that lead to success and fulfillment.",
-    coverUrl: "Neuro_Habits_Peter_Hollins.jpg"
+    coverUrl: "Neuro_habits.jpg"
 },
 
 {
@@ -764,7 +758,7 @@ const books = [
     author: "Amber Lyon",
     price: 500,
     description: "Tap into your inherent power to attract the life you desire. This inspirational book provides **guiding principles** rooted in mindfulness and positive psychology to help you become a more **magnetic and joyful person**. Amber Lyon offers clear, modern wisdom on how to shift your energy, harness your intentions, and align your thoughts and actions to effortlessly draw abundance, connection, and deep happiness into your reality.",
-    coverUrl: "You_Are_A_Magnet_Amber_Lyon.jpg"
+    coverUrl: "You_are_a_magnet.jpg"
 },
 
  {
@@ -772,28 +766,28 @@ const books = [
     author: "Kate Humble",
     price: 500,
     description: "Inspired by her own journey, Kate Humble explores the profound benefits of choosing a simpler, more meaningful existence. This book is a beautifully written, inspiring account of scaling back and finding **joy in the small, essential things**. Discover how to declutter your mind, connect with nature, reduce consumption, and ultimately embrace the freedom and peace that comes with living a **less complicated life**.",
-    coverUrl: "A_Year_of_Living_Simply_Kate_Humble.jpg"
+    coverUrl: "A_year_of_living_simply.jpg"
 },
     {
     title: "The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life",
     author: "Sahil Bloom",
     price: 500,
     description: "Move beyond money and redefine what it means to be truly rich. Bestselling author Sahil Bloom introduces a powerful framework for achieving holistic abundance by focusing on the **five pillars of wealth: Time, Social, Mental, Physical, and Financial**. This transformative guide offers practical, actionable strategies to optimize these five areas, helping you design a life that is not just financially successful, but also **balanced, purposeful, and deeply fulfilling**.",
-    coverUrl: "The_5_Types_of_Wealth.jpg"
+    coverUrl: "The_five_types_of_wealth.jpg"
 },
     {
     title: "Grow the F*ck Up: How to be an adult and get treated like one",
     author: "Sarah Knight",
     price: 500,
     description: "From the *New York Times* bestselling author of *Calm the F*ck Down* comes this **hilariously honest and refreshingly practical** guide to mastering modern adulthood. Sarah Knight tackles the awkward, confusing, and often frustrating realities of being an adult, from managing your finances to standing up for yourself. It’s an indispensable manual for stopping the procrastination, ditching the excuses, and finally learning **how to be—and get treated like—a responsible, capable adult**.",
-    coverUrl: "Grow_The_F_ck_Up.jpg"
+    coverUrl: "Grow_the_fuck_up.jpg"
 },
     {
     title: "The Ten Types of Human: A New Understanding of Who We Are and Who We Can Be",
     author: "Dexter Dias",
     price: 500,
     description: "Drawing on decades of experience as a human rights barrister, Dexter Dias unveils a new, powerful framework for understanding human behavior. Through **gripping true stories** from his legal cases, he identifies **ten core types of humans**—from the perpetrator to the hero—that exist within us all. This fascinating and timely book offers a profound understanding of our potential for both incredible good and shocking evil, ultimately providing a hopeful vision of **who we are and who we can strive to become**.",
-    coverUrl: "The_Ten_Types_of_Human.jpg"
+    coverUrl: "The_ten_types_of_human.jpg"
 },
     {
     title: "The Awe of God: The Astounding Way a Healthy Fear of God Transforms Your Life",
@@ -807,7 +801,7 @@ const books = [
     author: "Karen Ehman",
     price: 500,
     description: "In a world drowning in noise and gossip, this book offers timely wisdom on the power of our words. Karen Ehman provides a humorous and heartfelt look at how to control our tongues, offering practical biblical advice on **what to say, how to say it with love and truth, and, crucially, when to say nothing at all**. Learn how to tame your tendency to overshare, gossip, or speak carelessly, transforming your communication into a force for grace and encouragement.",
-    coverUrl: "Keep_It_Shut.jpg"
+    coverUrl: "Keep_it_shut.jpg"
 },
 
 {
@@ -815,7 +809,7 @@ const books = [
     author: "Dr. Myles Munroe",
     price: 500,
     description: "Unlock the extraordinary life you were created to live with this powerful devotional from the late Dr. Myles Munroe. Built on the principle that every individual is born with a unique gift, this book offers **daily wisdom and inspiration** to help you uncover your inherent purpose. Each reading is designed to challenge you to **maximize your full potential**, cultivate a purpose-driven mindset, and fulfill the destiny you were truly meant for.",
-    coverUrl: "Become_Who_You_Were_Meant_To_Be.jpg"
+    coverUrl: "Become_who_you_were_meant_to_be.jpg"
 },
 
 {
@@ -823,7 +817,7 @@ const books = [
     author: "Robert Greene",
     price: 500,
     description: "Start every day with a dose of profound wisdom from the master of strategy, Robert Greene (author of *The 48 Laws of Power*). This book is a **year-long devotional** that distills the timeless principles from his greatest works into 366 concise, powerful meditations. Learn to command respect, understand hidden human motivations, and achieve ultimate mastery—a perfect, accessible guide for those who want to **apply the laws of power and strategy** to their daily lives.",
-    coverUrl: "The_Daily_Laws_Robert_Greene.jpg"
+    coverUrl: "The_daily_laws.jpg"
 },
 
 {
@@ -831,21 +825,21 @@ const books = [
     author: "Dr. Nicole LePera (The Holistic Psychologist)",
     price: 500,
     description: "From the #1 *New York Times* bestselling author of *How to Do the Work*, Dr. Nicole LePera guides you through the process of **healing your relationship with yourself** so you can find the love you desire. Learn to identify and **break dysfunctional relationship cycles**, set strong boundaries, and address the roots of codependency and trauma. This deeply empathetic and practical guide empowers you to become the secure, authentic self who is capable of building and maintaining healthy, peaceful connections.",
-    coverUrl: "How_To_Be_The_Love_You_Seek.jpg"
+    coverUrl: "How_to_be_the_love_you_seek.jpg"
 },
     {
     title: "The Courage to Be Happy: Discover the Power of Positive Psychology and Choose Happiness Every Day",
     author: "Ichiro Kishimi and Fumitake Koga",
     price: 500,
     description: "The highly anticipated sequel to the global phenomenon, *The Courage to Be Disliked* (which sold over 2 million copies). Continuing the philosophical dialogue, this book dives deeper into **Adlerian psychology** to show you how to move from mere contentment to genuine, lasting happiness. Learn the revolutionary secret to finding satisfaction in work, love, and life, and discover the **courage it takes to choose happiness** every single day, regardless of external circumstances.",
-    coverUrl: "The_Courage_To_Be_Happy.jpg"
+    coverUrl: "The_courage_to_be_happy.jpg"
 },
     {
     title: "Win Your Inner Battles: Defeat the Enemy Within and Live With Purpose",
     author: "Darius Foroux",
     price: 500,
     description: "Stop fighting against yourself and start living a life driven by purpose. Darius Foroux provides a clear, no-nonsense manual for **conquering self-doubt, fear, and destructive thoughts**—the true 'enemy within.' This book gives you practical tools and strategies rooted in behavioral science to build mental resilience, stop procrastination, and **finally align your daily actions with your biggest goals** so you can live with unwavering focus and purpose.",
-    coverUrl: "Win_Your_Inner_Battles.jpg"
+    coverUrl: "Win_your_inner_battles.jpg"
 },
 
 {
@@ -853,7 +847,7 @@ const books = [
     author: "Brian Tracy",
     price: 500,
     description: "Unleash your mental power and achieve extraordinary success with strategies from legendary productivity expert Brian Tracy (author of *Eat That Frog!*). This book reveals the **proven methods for thinking, planning, and acting** used by the world's highest-paid and most successful individuals. Learn how to **accelerate your learning curve**, boost your critical thinking skills, and immediately apply key insights to maximize your professional and personal results.",
-    coverUrl: "Get_Smart_Brian_Tracy.jpg"
+    coverUrl: "Get_smart.jpg"
 },
 
 {
@@ -861,14 +855,14 @@ const books = [
     author: "David Eagleman",
     price: 500,
     description: "Based on the acclaimed BBC television series, this book takes you on an exhilarating journey into the most complex object in the known universe: your brain. Neuroscientist David Eagleman explores groundbreaking questions like: *Who am I? What is reality?* and *How do I decide?* It’s a **clear, engaging, and mind-bending exploration** that illuminates how our brains shape our perception, memories, and identities, fundamentally changing the way you understand **the story of yourself**.",
-    coverUrl: "The_Brain_The_Story_Of_You.jpg"
+    coverUrl: "The_brain.jpg"
 },
     {
     title: "The Year of No Nonsense: How to Get Over Yourself and Get On with Your Life",
     author: "Meredith Atwood",
     price: 500,
     description: "Tired of the drama, the excuses, and the endless self-inflicted struggles? Join Meredith Atwood as she declares a **Year of No Nonsense**! This witty, relatable guide cuts through the BS and offers a refreshing, realistic path to ditching the victim mentality, owning your choices, and taking actionable steps toward the life you want. Learn how to **stop making things harder than they have to be** and finally get out of your own way.",
-    coverUrl: "The_Year_Of_No_Nonsense.jpg"
+    coverUrl: "The_year_of_no_nonsense.jpg"
 },
     
 {
@@ -876,70 +870,70 @@ const books = [
     author: "Manoj Tripathi",
     price: 500,
     description: "Unlock massive potential by mastering the **soft skills** that most people overlook. This insightful book reveals how seemingly simple abilities like **deep listening, critical questioning, and effective communication** hold the key to better decision-making and professional success. Learn to recognize and hone these 'ignored skills' to fundamentally change the way you think, engage with the world, and **secure better outcomes** in every area of your life.",
-    coverUrl: "Power_Of_Ignored_Skills.jpg"
+    coverUrl: "Power_of_ignored_skills.jpg"
 },
     {
     title: "200 Quotes That Will Change the Way You Think",
     author: "Bookgains",
     price: 500,
     description: "Distill centuries of wisdom into a single, powerful collection. This book curates **200 of the most impactful, thought-provoking quotes** from influential thinkers, leaders, and artists, designed to shift your perspective and inspire meaningful action. As Charlie Munger advised, 'Those who will keep learning will keep rising in life.' Keep this book close for **instant motivation and clarity** on success, happiness, wealth, and life itself.",
-    coverUrl: "200_Quotes_That_Will_Change_The_Way_You_Think.jpg"
+    coverUrl: "200_quotes_that_will_change_the_way_you_think.jpg"
 },
     {
     title: "Take Your Life Back: How to Stop Letting the Past and Other People Control You",
     author: "Stephen Arterburn, M.Ed. and David Stoop, Ph.D.",
     price: 500,
     description: "Are you living life as a puppet to past hurts or the demands of others? This essential recovery guide empowers you to **cut the emotional strings** that keep you stuck. Arterburn and Stoop provide practical, faith-based tools to help you identify the sources of external control, **heal from old wounds**, and establish healthy boundaries. Learn to reclaim your personal freedom and **take courageous control** over your own choices and destiny.",
-    coverUrl: "Take_Your_Life_Back.jpg"
+    coverUrl: "Take_your_life_back.jpg"
 },
     {
     title: "Emotional Intelligence Habits: A Powerful New Way to Increase Your Emotional Intelligence",
     author: "Travis Bradberry",
     price: 500,
     description: "From the bestselling author of *Emotional Intelligence 2.0*, this book is your practical blueprint for making emotional intelligence an automatic part of your life. It teaches you **daily, micro-habits** that seamlessly integrate powerful EI skills into your routine, allowing you to quickly **change your habits and change your life**. Learn to master your emotions, navigate complex social situations, and improve both your personal and professional relationships with ease.",
-    coverUrl: "Emotional_Intelligence_Habits.jpg"
+    coverUrl: "Emotional_intelligence.jpg"
 },
     {
     title: "Attitude Is Everything (Revised Edition): 10 Life-Changing Steps to Turning Attitude into Action",
     author: "Keith Harrell",
     price: 500,
     description: "Anthony Robbins calls this book a guide that 'illuminates solid techniques to take your life to new heights!' This revised edition provides a **clear, ten-step program** for harnessing the massive power of your mindset. Learn how to eliminate toxic thought patterns, cultivate genuine optimism, and, most critically, translate that positive **attitude into consistent, powerful action**. It’s the ultimate guide for anyone ready to embrace enthusiasm and achieve peak personal fulfillment.",
-    coverUrl: "Attitude_Is_Everything.jpg"
+    coverUrl: "Attitude_is_everything.jpg"
 },
     {
     title: "Do the Impossible: How to Become Extraordinary and Impact the World at Scale",
     author: "Thibaut Meurisse",
     price: 500,
     description: "Stop settling for average and start aiming for the extraordinary. This high-impact guide provides the specific mindset shifts and practical strategies needed to set truly massive goals and **achieve what others deem impossible**. Meurisse shows you how to overcome self-limiting beliefs, cultivate ruthless focus, and execute large-scale projects, empowering you to **become an extraordinary individual** who leaves a lasting impact on the world.",
-    coverUrl: "Do_The_Impossible.jpg"
+    coverUrl: "Do_the_impossible.jpg"
 },
     {
     title: "What's Your Dream?: Find your passion. Love your work. Build a richer life.",
     author: "Simon Squibb",
     price: 500,
     description: "Tired of dreaming without acting? Simon Squibb, entrepreneur and podcast host, delivers a motivational kick to stop you from giving up on your goals and start building the life you truly want. Praised by Jay Shetty, this vibrant guide offers **inspirational stories and actionable steps** to help you **discover your true passion**, align it with fulfilling work, and systematically build a life that feels authentic, meaningful, and genuinely richer.",
-    coverUrl: "Whats_Your_Dream.jpg"
+    coverUrl: "Whats_your_dream.jpg"
 },
     {
     title: "The Power of Women: A Doctor's Journey of Hope and Healing",
     author: "Dr. Denis Mukwege",
     price: 500,
     description: "From Nobel Peace Prize laureate Dr. Denis Mukwege, this deeply moving memoir and powerful manifesto is a testament to the resilience of women. Mukwege recounts his life's work as a surgeon dedicated to helping survivors of sexual violence, revealing the profound cruelty of war but also the **unyielding strength, courage, and healing power of women**. This book is a beacon of hope and a stirring call to action for equality, justice, and recognizing the essential dignity of every woman.",
-    coverUrl: "The_Power_Of_Women.jpg"
+    coverUrl: "The_power_of_women.jpg"
 },
 {
     title: "Your Difference Is Your Strength: A Guide to Accepting Yourself—For Anyone Who Has Ever Felt Out of Place",
     author: "Kris Ferraro",
     price: 500,
     description: "For anyone who has ever felt like they didn't quite belong, this book offers a profound message of self-acceptance and empowerment. Ferraro, author of *Manifesting*, teaches you how to stop hiding the parts of yourself that are unique and instead recognize that your perceived 'flaws' are actually your **greatest assets**. This is a warm, insightful guide to embracing your authentic self and realizing that your **difference is the source of your truest power**.",
-    coverUrl: "Your_Difference_Is_Your_Strength.jpg"
+    coverUrl: "Your_difference_is_your_strength.jpg"
 },
     {
     title: "55 Questions to Ask Yourself (Across 8 dimensions for a new you!)",
     author: "Manoj Chenthamarakshan",
     price: 500,
     description: "Transformation begins with the right questions. This book provides a deeply reflective set of **55 powerful questions** designed to probe eight critical dimensions of your life: from mental clarity and personal values to professional success. Use this guided inquiry to gain profound **self-awareness**, identify your core beliefs, and create a targeted, actionable plan for **becoming a 'new you'** with purpose and direction.",
-    coverUrl: "55_Questions_To_Ask_Yourself.jpg"
+    coverUrl: "55_questions_to_ask_yourself.jpg"
 },
 
 
@@ -948,35 +942,35 @@ const books = [
     author: "Patrick Bet-David with Greg Dinkin",
     price: 500,
     description: "Master the mindset of a chess player in business and life. Praised by Ray Dalio, this book by entrepreneur Patrick Bet-David teaches you how to **think strategically by looking five steps ahead**. Learn how to identify your current position, predict competitors' actions, and build a cohesive, long-term strategy for dominating your field, giving you the **strategic edge** to build an empire.",
-    coverUrl: "Your_Next_Five_Moves.jpg"
+    coverUrl: "Your_next_five_moves.jpg"
 },
     {
     title: "Learn to Earn: A Beginner's Guide to the Basics of Investing and Business",
     author: "Peter Lynch and John Rothchild",
     price: 500,
     description: "Start your financial journey with a **classic guide** from legendary investor **Peter Lynch**. This book is the perfect primer for young or new investors, explaining the fundamentals of the stock market and business through clear, accessible language. It teaches you to use the knowledge you already have about companies and products to make smart investment decisions, helping you **learn to earn** your financial independence.",
-    coverUrl: "Learn_To_Earn.jpg"
+    coverUrl: "Learn_to_earn.jpg"
 },
     {
     title: "The Art of Thinking Clearly",
     author: "Rolf Dobelli",
     price: 500,
     description: "Nicholas Nassim Taleb calls this book a masterpiece of 'imagination and realism.' Rolf Dobelli identifies **52 common cognitive biases**—simple thinking errors—that sabotage our decisions and happiness. This million-copy bestseller is an essential guide for anyone who wants to **improve judgment and decision-making**. By learning to avoid these pitfalls, you will think more rationally and achieve greater clarity in all aspects of life.",
-    coverUrl: "The_Art_of_Thinking_Clearly.jpg"
+    coverUrl: "The_art_of_thinking_clearly.jpg"
 },
     {
     title: "How to Stop Worrying and Start Living",
     author: "Dale Carnegie",
     price: 500,
     description: "A **timeless classic** that has helped millions conquer anxiety and live a more joyful life. Dale Carnegie provides **time-tested methods** for breaking the worry habit and transforming it into positive action. Learn the magic formula for solving worry problems, how to relax and avoid fatigue, and simple techniques for banishing the 'worry habit' forever. This book is the definitive guide to **finding peace of mind**.",
-    coverUrl: "How_to_Stop_Worrying_and_Start_Living.jpg"
+    coverUrl: "How_to_stop_worrying_start_living.jpg"
 },
     {
     title: "Master Your Emotions: A Practical Guide to Overcome Negativity and Better Manage Your Feelings",
     author: "Thibaut Meurisse",
     price: 500,
     description: "From the bestselling author of *Master Your Motivation*, this practical guide provides the tools to **take full control of your emotional life**. Learn how to identify the root causes of negative feelings, shift your mindset, and develop effective strategies for managing stress, anger, and fear. It is a clear, actionable roadmap to achieving emotional resilience and **lasting inner peace**.",
-    coverUrl: "Master_Your_Emotions.jpg"
+    coverUrl: "Master_your_emotions.jpg"
 },
 
 {
@@ -984,7 +978,7 @@ const books = [
     author: "Chuck Wisner",
     price: 500,
     description: "Transform your relationships—both personal and professional—by mastering the way you communicate. Chuck Wisner introduces the concept of **Conscious Conversations**, offering simple, powerful frameworks to move beyond surface-level chatter to **deep, authentic connection**. Learn to listen more effectively, ask more insightful questions, and interact in ways that build trust and solve problems, fundamentally improving your human interactions.",
-    coverUrl: "The_Art_Of_Conscious_Conversations.jpg"
+    coverUrl: "The_art_of_conscious_conversations.jpg"
 },
     
 {
@@ -992,7 +986,7 @@ const books = [
     author: "Susan J. Ashford",
     price: 500,
     description: "Named the best book on personal effectiveness by Daniel H. Pink, this guide shows you a simple yet radical path to professional and personal growth. Susan J. Ashford reveals the secret to success lies in **'flexing'**: using small, strategic daily experiments—like stepping outside your comfort zone—to build new skills and create big changes. It’s an empowering approach to learning that prioritizes **actionable growth over static planning**.",
-    coverUrl: "The_Power_Of_Flexing.jpg"
+    coverUrl: "The_power_of_flexing.jpg"
 },
     
 {
@@ -1000,70 +994,70 @@ const books = [
     author: "Patrick King",
     price: 500,
     description: "Gain an **unfair advantage** in every social interaction by mastering the art of human observation. This comprehensive guide teaches you the psychological tricks and non-verbal cues needed to quickly and accurately read body language, facial micro-expressions, and speech patterns. Learn how to **analyze and predict** people's true intentions, improve your influence, and navigate complex social situations with total confidence.",
-    coverUrl: "Read_People_Like_A_Book.jpg"
+    coverUrl: "Read_people_like_a_book.jpg"
 },
      {
         "title": "Hidden Potential: The Science of Achieving Greater Things",
         "author": "Adam Grant",
         "price": 500,
         "description": "From the #1 New York Times bestselling author of *Think Again*, Adam Grant reveals a new framework for unlocking your greatness. This book shows that **hidden potential** is not about innate talent, but about the systems and strengths that allow you to constantly improve. Learn to build the character skills and supportive structures needed to achieve far more than you thought possible. As James Clear says, it 'reveals what it takes to become a better version of yourself.'",
-        "coverUrl": "Hidden_Potential_Adam_Grant.jpg"
+        "coverUrl": "Hidden_potential.jpg"
     },
     {
         "title": "The Power of Writing It Down: A Simple Habit to Unlock Your Brain and Reimagine Your Life",
         "author": "Allison Fallon",
         "price": 500,
         "description": "Unlock your mind's true potential through the simple, transformative act of writing. Fallon shows you how to use journaling not just for reflection, but as a powerful tool to **unlock your brain**, process difficult emotions, and gain clarity on your life's path. Discover a practical, easy habit that helps you overcome creative blocks, reduce anxiety, and actively **reimagine and build the life you want**.",
-        "coverUrl": "The_Power_Of_Writing_It_Down.jpg"
+        "coverUrl": "The_power_of_writing_it_down.jpg"
     },
     {
         "title": "Self Under Control: Definitive and practical guide to mastering the art of self-discipline using scientific principles and timeless wisdom",
         "author": "Abhilash CS",
         "price": 500,
         "description": "Be the person you look at in awe by mastering the art of self-discipline. This definitive guide combines **scientific principles with timeless wisdom** to provide a clear path to gaining control over your habits, focus, and actions. Learn how to stop being a puppet to your impulses and use genuine **self-control** to consistently make choices that lead to long-term success and fulfillment.",
-        "coverUrl": "Self_Under_Control.jpg"
+        "coverUrl": "Self_under_control.jpg"
     },
     {
         "title": "Leading with Dignity: How to Create a Culture That Brings Out the Best in People",
         "author": "Donna Hicks, Ph.D.",
         "price": 500,
         "description": "Based on years of international conflict resolution, Dr. Donna Hicks reveals that **dignity** is the key to creating extraordinary teams and thriving relationships. This practical guide shows leaders and individuals how to foster a culture of respect, trust, and openness by recognizing and honoring the 10 elements of dignity. Learn to **bring out the best in people**, minimize conflict, and maximize performance in any setting.",
-        "coverUrl": "Leading_With_Dignity.jpg"
+        "coverUrl": "Leading_with_dignity.jpg"
     },
     {
         "title": "Stillness Is the Key: An Ancient Strategy for Modern Life",
         "author": "Ryan Holiday",
         "price": 500,
         "description": "From the #1 New York Times bestselling author, Ryan Holiday draws on Stoicism, Buddhism, and Christianity to present **stillness** as the essential strategy for modern life. Learn how to cultivate mental calm, emotional control, and spiritual depth in a hyper-distracted world. This book is a powerful argument for slowing down, tuning out the noise, and accessing the **focused inner peace** required to achieve mastery and purpose.",
-        "coverUrl": "Stillness_Is_The_Key.jpg"
+        "coverUrl": "Stillness_is_the_key.jpg"
     },
     {
         "title": "Introvert Power: Why Your Inner Life Is Your Hidden Strength",
         "author": "Laurie Helgoe, Ph.D.",
         "price": 500,
         "description": "Challenge the societal bias towards extroversion and discover the profound gifts of the quiet temperament. Dr. Helgoe reframes introversion not as a flaw, but as a **rich source of power, creativity, and connection**. Learn how to harness your inner life for success, recharge effectively, and communicate your needs and strengths with confidence, proving that your **inner strength** is your greatest asset.",
-        "coverUrl": "Introvert_Power.jpg"
+        "coverUrl": "Introvert_power.jpg"
     },
     {
         "title": "The Art of Self-Therapy: How to Grow, Gain Self-Awareness, & Understand Your Emotions",
         "author": "Nick Trenton",
         "price": 500,
         "description": "Empower yourself to become your own best therapist. Nick Trenton provides practical, easy-to-use techniques rooted in psychology for deepening your **self-awareness** and achieving profound personal growth. Learn to understand your emotions, challenge negative beliefs, and effectively heal from past experiences, giving you the tools to guide your own journey toward **emotional clarity and fulfillment**.",
-        "coverUrl": "The_Art_Of_Self_Therapy.jpg"
+        "coverUrl": "The_art_of_self_therapy.jpg"
     },
     {
         "title": "Don't Believe Everything You Think: Why your thinking is the beginning and end of suffering",
         "author": "Joseph Nguyen",
         "price": 500,
         "description": "This #1 international bestseller offers a simple yet life-changing truth: **your thoughts are not reality, and they are the source of all suffering**. Joseph Nguyen provides a clear, insightful guide to recognizing the mind's endless chatter as noise. By shifting your relationship with your own thinking, you can find immediate freedom, peace, and an end to self-inflicted anxiety.",
-        "coverUrl": "Dont_Believe_Everything_You_Think.jpg"
+        "coverUrl": "Dont_believe_everything_you_think.jpg"
     },
     {
         "title": "“It always seems impossible until it’s done.”: Motivation for Dreamers & Doers",
         "author": "Kathryn & Ross Petras",
         "price": 500,
         "description": "A pocket-sized book packed with powerful **motivation for dreamers and doers** alike. This collection of quotes and insights, inspired by Nelson Mandela's famous words, is designed to fuel your ambition, overcome procrastination, and remind you that every great achievement once seemed impossible. Keep it close for a daily dose of courage to pursue your biggest goals.",
-        "coverUrl": "It_Always_Seems_Impossible.jpg"
+        "coverUrl":"It_seems_impossible_until_its_done.jpg"
     },
 {
         title: "The Power of Positive Thinking",
