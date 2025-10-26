@@ -1057,7 +1057,7 @@ const books = [
         "author": "Kathryn & Ross Petras",
         "price": 500,
         "description": "A pocket-sized book packed with powerful **motivation for dreamers and doers** alike. This collection of quotes and insights, inspired by Nelson Mandela's famous words, is designed to fuel your ambition, overcome procrastination, and remind you that every great achievement once seemed impossible. Keep it close for a daily dose of courage to pursue your biggest goals.",
-        "coverUrl":"It_seems_impossible_until_its_done.jpg"
+        "coverUrl":"It_alwsys_seems_impossible_until_its_done.jpg"
     },
 {
         title: "The Power of Positive Thinking",
