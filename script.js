@@ -117,7 +117,7 @@ const books = [
     "coverUrl": "Grit.jpg"
 },
 {
-    "title": "The Art of Laziness: Overcome Procrastination & Boost Your Productivity",
+    "title": "The Art of Laziness:",
     "author": "Library Mindset",
     "price": 500,
     "description": "A guide on how to overcome procrastination and boost productivity, offering a different perspective on time management and efficiency.",
@@ -173,7 +173,7 @@ const books = [
     "coverUrl": "Best_self.jpg"
 },
 {
-    "title": "You Were Not Born To Suffer: Overcome Fear, Insecurity and Depression and Love Yourself Back to Happiness, Confidence and Peace",
+    "title": "You Were Not Born To Suffer:",
     "author": "Blake D Bauer",
     "price": 500,
     "description": "A guide to understanding the root causes of suffering, fear, and insecurity, offering a path toward self-love, confidence, and inner peace.",
@@ -187,7 +187,7 @@ const books = [
     "coverUrl": "Boundaries.jpg"
 },
 {
-    "title": "Do It Today: Overcome Procrastination, Improve Productivity & Achieve More Meaningful Things",
+    "title":"Do It Today:",
     "author": "Darius Foroux",
     "price": 500,
     "description": "A practical guide focused on overcoming procrastination and boosting personal productivity by taking immediate action on important tasks.",
@@ -201,14 +201,14 @@ const books = [
     "coverUrl": "Make_your_bed.jpg"
 },
 {
-    "title": "How to Listen with Intention: The Foundation of True Connection, Communication, & Relationships",
+    "title": "How to Listen with Intention:",
     "author": "Patrick King",
     "price": 500,
     "description": "A guide on developing intentional listening skills to improve communication, deepen relationships, and foster true connections with others.",
     "coverUrl": "How_to_listen_with_intention.png"
 },
 {
-    "title": "The Science of Self-Discipline: The Willpower, Mental Toughness and Self-Control to Resist Temptation and Achieve Your Goals",
+    "title": "The Science of Self-Discipline:",
     "author": "Peter Hollins",
     "price": 500,
     "description": "Examines the psychological principles behind self-discipline, offering techniques to build willpower, mental toughness, and self-control to achieve long-term goals.",
@@ -222,7 +222,7 @@ const books = [
     "coverUrl": "Believe_in_yourself.png"
 },
 {
-    "title": "The Art of Letting Go: Stop Overthinking, Stop Negative Spirals, and Find Emotional Freedom",
+    "title": "The Art of Letting Go:",
     "author": "Nick Trenton",
     "price": 500,
     "description": "Provides strategies to stop overthinking and negative thought patterns to achieve greater emotional freedom and mental peace.",
@@ -236,7 +236,7 @@ const books = [
     "coverUrl": "The_power_of_decision_making.png"
 },
 {
-    "title": "What Got You Here Won't Get You There: How Successful People Become Even More Successful",
+    "title": "What Got You Here Won't Get You There:",
     "author": "Marshall Goldsmith",
     "price": 500,
     "description": "Identifies common behavioral flaws that hold back highly successful people and offers advice on overcoming these habits to reach the next level of achievement.",
@@ -257,7 +257,7 @@ const books = [
     "coverUrl": "Make_it_happen.jpg"
 },
 {
-    "title": "The Confidence Code: The Science and Art of Self-Assurance—What Women Should Know",
+    "title": "The Confidence Code:",
     "author": "Katty Kay and Claire Shipman",
     "price": 500,
     "description": "An exploration of the essential role of confidence in success, providing insights from psychology and practical advice specifically for women to develop self-assurance.",
