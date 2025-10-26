@@ -963,7 +963,7 @@ const books = [
     author: "Dale Carnegie",
     price: 500,
     description: "A **timeless classic** that has helped millions conquer anxiety and live a more joyful life. Dale Carnegie provides **time-tested methods** for breaking the worry habit and transforming it into positive action. Learn the magic formula for solving worry problems, how to relax and avoid fatigue, and simple techniques for banishing the 'worry habit' forever. This book is the definitive guide to **finding peace of mind**.",
-    coverUrl: "How_to_stop_worrying_start_living.jpg"
+    coverUrl: "Stop_worrying_start_living.jpg"
 },
     {
     title: "Master Your Emotions: A Practical Guide to Overcome Negativity and Better Manage Your Feelings",
