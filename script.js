@@ -1064,7 +1064,7 @@ const books = [
     author: "Timothy Ferriss",
     price: 500,
     description: "The classic guide to **lifestyle design** that revolutionized how people view work. Tim Ferriss provides a blueprint for outsourcing your life, automating income, and creating **'muse' businesses** that fund a life of travel and adventure. Learn the DEAL framework (Definition, Elimination, Automation, Liberation) to escape the routine and join the 'New Rich' who prioritize **time and mobility over traditional wealth**.",
-    coverUrl: "The_4_Hour_Workweek.jpg"
+    coverUrl:"The_four_work_week.jpg"
 },
  
     {
@@ -1072,21 +1072,21 @@ const books = [
         "author": "Joyce Meyer",
         "price": 500,
         "description": "In this insightful book, Joyce Meyer shares practical wisdom on how to engage with and love those who challenge us the most. Through personal anecdotes and biblical teachings, she guides readers on a transformative journey towards unconditional love and understanding.",
-        "coverUrl": "Loving_People_Who_Are_Hard_to_Love.jpg"
+        "coverUrl": "Loving_people.jpg"
     },
     {
         "title": "Woman Who Are Healed & Whole",
         "author": "T.D. Jakes",
         "price": 500,
         "description": "T.D. Jakes offers a powerful 90-day devotional designed for women seeking healing and wholeness. Each entry provides encouragement, spiritual insight, and reflection prompts to help women embrace their identity and purpose in Christ.",
-        "coverUrl": "Woman_Healed_And_Whole.jpg"
+        "coverUrl": "Woman.jpg"
     },
     {
         "title": "Know What Matters",
         "author": "Ron Shaich",
         "price": 500,
         "description": "Ron Shaich, founder of Panera Bread, shares his life lessons and insights on leadership, entrepreneurship, and personal growth. This book emphasizes the importance of understanding core values and making choices that align with what truly matters in life.",
-        "coverUrl": "Know_What_Matters.jpg"
+        "coverUrl": "Know_what_matters.jpg"
     },
     {
         "title": "Clarity",
@@ -1100,42 +1100,42 @@ const books = [
         "author": "Napoleon Hill",
         "price": 500,
         "description": "This book delves into the power of thought and how it can shape our reality. Napoleon Hill illustrates how leveraging our thoughts can lead to success and fulfillment, backed by principles that have stood the test of time.",
-        "coverUrl": "The_Language_of_Thought.jpg"
+        "coverUrl": "The_language_of_thought.jpg"
     },
     {
         "title": "This Is Me Letting You Go",
         "author": "Heidi Priebe",
         "price": 500,
         "description": "Heidi Priebe offers an intimate look at the process of letting go of past hurts and embracing personal growth. This book combines self-reflection exercises with heartfelt narratives, encouraging readers to move forward and find peace.",
-        "coverUrl": "This_Is_Me_Letting_You_Go.jpg"
+        "coverUrl": "Letting_you_go.jpg"
     },
     {
         "title": "The Leader Who Had No Title",
         "author": "Robin Sharma",
         "price": 500,
         "description": "In this modern fable, Robin Sharma illustrates that true leadership is not about titles or positions but about influence and impact. The story follows a man who learns valuable lessons about leadership from a group of extraordinary mentors.",
-        "coverUrl": "The_Leader_Who_Had_No_Title.jpg"
+        "coverUrl": "The_leader_who_had_no_title.jpg"
     },
     {
         "title": "Reminiscences of a Stock Operator",
         "author": "Edwin Lefèvre",
         "price": 500,
         "description": "A timeless classic in the finance world, this book recounts the life of a stock trader and the lessons learned through triumphs and failures. It offers invaluable insights into the psychology of trading and the complexities of the stock market.",
-        "coverUrl": "Reminiscences_of_a_Stock_Operator.jpg"
+        "coverUrl": "Reminiscences.jpg"
     },
     {
         "title": "The Hidden Half",
         "author": "Michael Blastland",
         "price": 500,
         "description": "Michael Blastland explores the unseen forces that shape our thoughts and behaviors. This thought-provoking book challenges conventional wisdom and encourages readers to examine the hidden influences that affect decision-making and perception.",
-        "coverUrl": "The_Hidden_Half.jpg"
+        "coverUrl": "The_hidden_half.jpg"
     },
     {
         "title": "Do It Anyway",
         "author": "Tasha Cobbs Leonard",
         "price": 500,
         "description": "Tasha Cobbs Leonard shares her inspiring journey of faith and resilience. This book encourages readers to pursue their dreams and purpose, regardless of obstacles, and emphasizes the importance of unwavering determination and trust in God.",
-        "coverUrl": "Do_It_Anyway.jpg"
+        "coverUrl": "Do_it_anyway.jpg"
     },
 
   
@@ -1144,7 +1144,7 @@ const books = [
         "author": "Edited by Rebecca Walker",
         "price": 500,
         "description": "This collection of 28 essays dives into the often-taboo subjects that women navigate daily. Contributors share personal stories and insights about family dynamics, love, sexuality, and financial independence, fostering open conversations about what it means to be a woman today.",
-        "coverUrl": "Women_Talk.jpg"
+        "coverUrl": "Women_talk.jpg"
     },
     {
         "title": "Elastic",
@@ -1158,91 +1158,91 @@ const books = [
         "author": "Dr. Henry Cloud",
         "price": 500,
         "description": "Dr. Cloud examines the profound impact that our relationships have on our lives. He discusses how the people around us can influence our success, happiness, and health, emphasizing the importance of choosing the right connections.",
-        "coverUrl": "The_Power_of_the_Other.jpg"
+        "coverUrl": "The_power_of_the_other.jpg"
     },
     {
         "title": "People Can't Drive You Crazy If You Don't Give Them the Keys",
         "author": "Mike Bechtle",
         "price": 500,
         "description": "Mike Bechtle provides humorous yet practical advice on managing relationships and not letting others' behaviors affect your peace of mind. This book offers strategies for maintaining emotional control and healthy boundaries.",
-        "coverUrl": "People_Cant_Drive_You_Crazy.jpg"
+        "coverUrl": "People_cant_drive_you_crazy.jpg"
     },
     {
         "title": "The Right Call",
         "author": "Sally Jenkins",
         "price": 500,
         "description": "Sally Jenkins draws parallels between sports and life, exploring the lessons that athletic experiences can teach us about teamwork, resilience, and decision-making. This book is a compelling read for anyone looking to improve their personal and professional life.",
-        "coverUrl": "The_Right_Call.jpg"
+        "coverUrl": "The_right_call.jpg"
     },
     {
         "title": "Betting on You",
         "author": "Laurie Ruettimann",
         "price": 500,
         "description": "This empowering book encourages readers to prioritize themselves and take control of their careers. Laurie Ruettimann shares actionable advice on self-advocacy and finding fulfillment in both personal and professional realms.",
-        "coverUrl": "Betting_on_You.jpg"
+        "coverUrl": "Betting_on_you.jpg"
     },
     {
         "title": "The Child in You",
         "author": "Stefanie Stahl",
         "price": 500,
         "description": "Stefanie Stahl introduces a groundbreaking method for reconnecting with your authentic self. This book offers practical exercises and insights to help readers understand their inner child and foster emotional healing.",
-        "coverUrl": "The_Child_in_You.jpg"
+        "coverUrl": "The_child_in_you.jpg"
     },
     {
         "title": "Smart Brevity",
         "author": "Jim VandeHei, Mike Allen, and Roy Schwartz",
         "price": 500,
         "description": "The authors, co-creators of Axios, present a guide on effective communication. 'Smart Brevity' teaches how to convey messages clearly and concisely, maximizing impact in an age of information overload.",
-        "coverUrl": "Smart_Brevity.jpg"
+        "coverUrl": "Smart_brevity.jpg"
     },
     {
         "title": "Forgetting You",
         "author": "Aliza Grace",
         "price": 500,
         "description": "A poignant exploration of love and loss, 'Forgetting You' captures the complexities of moving on from past relationships. Aliza Grace's lyrical writing offers solace and insight for those navigating heartbreak.",
-        "coverUrl": "Forgetting_You.jpg"
+        "coverUrl": "Forgetting_you.jpg"
     },
     {
         "title": "How to Know a Person",
         "author": "David Brooks",
         "price": 500,
         "description": "David Brooks delves into the art of understanding others. This book explores the nuances of relationships and offers guidance on how to connect deeply with the people around us.",
-        "coverUrl": "How_to_Know_a_Person.jpg"
+        "coverUrl": "How_to_know_a_person.jpg"
     },
     {
         "title": "Everything Is F*cked: A Book About Hope",
         "author": "Mark Manson",
         "price": 580,
         "description": "Mark Manson tackles the complexities of modern life and the pursuit of hope. With his signature bluntness, he discusses how to find meaning and resilience in a chaotic world.",
-        "coverUrl": "Everything_Is_Fucked.jpg"
+        "coverUrl": "Everything_is_fucked.jpg"
     },
     {
         "title": "My Morning Routine",
         "author": "Benjamin Spall and Michael Xander",
         "price": 500,
         "description": "The authors share insights from successful individuals about their morning routines. This book provides inspiration and practical tips for enhancing productivity and starting each day with purpose.",
-        "coverUrl": "My_Morning_Routine.jpg"
+        "coverUrl": "My_morning_routine.jpg"
     },
     {
         "title": "The Examined Life",
         "author": "Stephen Grosz",
         "price": 500,
         "description": "Stephen Grosz invites readers to reflect on the human experience through the lens of psychotherapy. This collection of stories and insights encourages self-examination and personal growth.",
-        "coverUrl": "The_Examined_Life.jpg"
+        "coverUrl": "The_examined_life.jpg"
     },
     {
         "title": "The Selfish Gene: 40th Anniversary Edition",
         "author": "Richard Dawkins",
         "price": 500,
         "description": "In this classic work of evolutionary biology, Richard Dawkins presents a gene-centered view of evolution. This anniversary edition celebrates the book's lasting impact on the field and its provocative ideas about natural selection.",
-        "coverUrl": "The_Selfish_Gene.jpg"
+        "coverUrl": "The_selfish_gene.jpg"
     },
     {
         "title": "The Price of Money",
         "author": "Rob Dix",
         "price": 500,
         "description": "Rob Dix offers a practical guide to financial literacy in a world filled with economic challenges. This book equips readers with the knowledge and strategies needed to navigate personal finance and build wealth.",
-        "coverUrl": "The_Price_of_Money.jpg"
+        "coverUrl": "The_price_of_money.jpg"
     },
 
  
@@ -1258,133 +1258,133 @@ const books = [
         "author": "Rom Brafman",
         "price": 500,
         "description": "Rom Brafman outlines principles that contribute to high achievement and resilience, challenging traditional views on failure.",
-        "coverUrl": "Succeeding_When_Youre_Supposed_to_Fail.jpg"
+        "coverUrl": "Succeeding_when_you_are_supposed_to_fail.jpg"
     },
     {
         "title": "101 Ways to Be Less Stressed",
         "author": "Dr. Caroline Leaf",
         "price": 500,
         "description": "A practical guide offering self-care strategies to improve mental health and reduce stress, enhancing overall well-being.",
-        "coverUrl": "101_Ways_to_Be_Less_Stressed.jpg"
+        "coverUrl": "101_ways_to_be_less_stressed.jpg"
     },
     {
         "title": "Being You",
         "author": "Anil Seth",
         "price": 500,
         "description": "An exploration of consciousness and self-awareness, offering insights into what it means to be you.",
-        "coverUrl": "Being_You.jpg"
+        "coverUrl": "Being_you.jpg"
     },
     {
         "title": "Healing the Soul of a Woman",
         "author": "Joyce Meyer",
         "price": 500,
         "description": "Joyce Meyer provides guidance on overcoming emotional wounds and finding healing, focusing on spiritual and practical advice.",
-        "coverUrl": "Healing_the_Soul_of_a_Woman.jpg"
+        "coverUrl": "Healing_the_soul_of_a_woman.jpg"
     },
     {
         "title": "Financial Intelligence",
         "author": "Karen Berman, Joe Knight, and John Case",
         "price": 500,
         "description": "A guide to understanding financial statements and key metrics, empowering managers to make informed business decisions.",
-        "coverUrl": "Financial_Intelligence.jpg"
+        "coverUrl": "Financial_intelligence.jpg"
     },
     {
         "title": "Life Can Be Good Again",
         "author": "Lisa Appelo",
         "price": 500,
         "description": "An inspirational book about rebuilding your life after hardship, offering practical advice for finding hope.",
-        "coverUrl": "Life_Can_Be_Good_Again.jpg"
+        "coverUrl": "Life_can_be_good_again.jpg"
     },
     {
         "title": "The Choice",
         "author": "Dr. Edith Eva Eger",
         "price": 600,
         "description": "A memoir reflecting on resilience and the power of choice, based on the author's experiences as a Holocaust survivor.",
-        "coverUrl": "The_Choice.jpg"
+        "coverUrl": "The_choice.jpg"
     },
     {
         "title": "30 Days",
         "author": "Marc Reklau",
         "price": 500,
         "description": "A practical guide to changing habits and transforming your life in 30 days, with actionable steps for self-improvement.",
-        "coverUrl": "30_Days.jpg"
+        "coverUrl": "30_days.jpg"
     },
     {
         "title": "The Achievement Habit",
         "author": "Bernard Roth",
         "price": 500,
         "description": "A book emphasizing the importance of taking action and overcoming procrastination to achieve success.",
-        "coverUrl": "The_Achievement_Habit.jpg"
+        "coverUrl": "The_achievement_habit.jpg"
     },
     {
         "title": "Master Your Beliefs",
         "author": "Thibaut Meurisse",
         "price": 500,
         "description": "This guide helps readers identify and change limiting beliefs to build unshakeable confidence and a positive mindset.",
-        "coverUrl": "Master_Your_Beliefs.jpg"
+        "coverUrl": "Master_your_beliefs.jpg"
     },
     {
         "title": "Strong Memory",
         "author": "Frank Minirth, MD",
         "price": 500,
         "description": "Strategies for maintaining cognitive function and improving memory, with a focus on anti-aging techniques.",
-        "coverUrl": "Strong_Memory.jpg"
+        "coverUrl": "Strong_memory.jpg"
     },
     {
         "title": "The Dumb Things Smart People Do With Their Money",
         "author": "Jill Schlesinger",
         "price": 500,
         "description": "An analysis of common financial mistakes and how to correct them, aimed at improving financial literacy.",
-        "coverUrl": "The_Dumb_Things_Smart_People_Do_With_Their_Money.jpg"
+        "coverUrl": "The_dumb_things_smart_people_do_with_their_money.jpg"
     },
     {
         "title": "Soulful Simplicity",
         "author": "Courtney Carver",
         "price": 500,
         "description": "An exploration of minimalism and how simplifying life can lead to greater fulfillment and happiness.",
-        "coverUrl": "Soulful_Simplicity.jpg"
+        "coverUrl": "Soulful_simplicity.jpg"
     },
     {
         "title": "The Power of Your Dreams",
         "author": "Stephanie Ike Okafor",
         "price": 500,
         "description": "A guide to understanding dreams and their significance, helping readers tap into their subconscious for guidance.",
-        "coverUrl": "The_Power_of_Your_Dreams.jpg"
+        "coverUrl": "The_power_of_your_dreams.jpg"
     },
     {
         "title": "Do What Matters Most",
         "author": "Rob Shallenberger & Steve Shallenberger",
         "price": 500,
         "description": "A book on prioritizing tasks and managing time effectively, providing strategies for achieving personal and professional goals.",
-        "coverUrl": "Do_What_Matters_Most.jpg"
+        "coverUrl": "Do_what_matters_most.jpg"
     },
     {
         "title": "13 Things Mentally Strong People Don't Do",
         "author": "Amy Morin",
         "price": 500,
         "description": "Insights on bad habits to avoid for mental strength, offering strategies for resilience and success.",
-        "coverUrl": "13_Things_Mentally_Strong_People_Dont_Do.jpg"
+        "coverUrl": "13_things_mentally_strong_people_dont_do.jpg"
     },
     {
         "title": "How to Respect Myself",
         "author": "Toon Hong Gyu",
         "price": 500,
         "description": "A guide on self-worth and respecting oneself, providing insights and strategies for building self-esteem.",
-        "coverUrl": "How_to_Respect_Myself.jpg"
+        "coverUrl": "How_to_respect_myself.jpg"
     },
     {
         "title": "Unapologetically Ambitious",
         "author": "Shellye Archambeau",
         "price": 500,
         "description": "An inspiring story about breaking barriers and achieving success, encouraging readers to pursue their ambitions unapologetically.",
-        "coverUrl": "Unapologetically_Ambitious.jpg"
+        "coverUrl": "Unapologetically_ambitious.jpg"
     },
     {
         "title": "It's Not You, It's the Workplace",
         "author": "Andrea S. Kramer and Alton B. Harris",
         "price": 500,
         "description": "A discussion on women's challenges in the workplace, offering strategies to navigate bias and thrive.",
-        "coverUrl": "Its_Not_You_Its_the_Workplace.jpg"
+        "coverUrl": "Its_not_you.jpg"
     },
 
 
@@ -1393,56 +1393,56 @@ const books = [
         "author": "Martin Reeves, Knut Haanæs, Janmejaya Sinha",
         "price": 500,
         "description": "This book offers a framework for selecting and executing the right strategic approach in dynamic environments.",
-        "coverUrl": "Your_Strategy_Needs_a_Strategy.jpg"
+        "coverUrl": "Your_strategy_needs_a_strategy.jpg"
     },
     {
         "title": "Developing the Qualities of Success",
         "author": "Zig Ziglar",
         "price": 500,
         "description": "A motivational guide focusing on essential qualities for success and how to stay motivated.",
-        "coverUrl": "Developing_the_Qualities_of_Success.jpg"
+        "coverUrl": "Developing_the_qualities_of_success.jpg"
     },
     {
         "title": "Why Motivating People Doesn't Work... and What Does",
         "author": "Susan Fowler",
         "price": 500,
         "description": "Explores the science of motivation, offering strategies for effective leadership and engagement.",
-        "coverUrl": "Why_Motivating_People_Doesnt_Work.jpg"
+        "coverUrl": "Why_motivating_people_doesnt_work.jpg"
     },
     {
         "title": "The Four Seasons of Marriage",
         "author": "Gary Chapman",
         "price": 500,
         "description": "A guide to understanding the different phases of marriage and how to navigate them.",
-        "coverUrl": "The_Four_Seasons_of_Marriage.jpg"
+        "coverUrl": "The_four_seasons_of_marriage.jpg"
     },
     {
         "title": "Better Small Talk",
         "author": "Patrick King",
         "price": 500,
         "description": "A practical guide to improving conversation skills and building meaningful connections.",
-        "coverUrl": "Better_Small_Talk.jpg"
+        "coverUrl": "Better_small_talk.jpg"
     },
     {
         "title": "Never Go Back",
         "author": "Dr. Henry Cloud",
         "price": 500,
         "description": "Discusses ten things to avoid in life, helping readers to move forward and improve their future.",
-        "coverUrl": "Never_Go_Back.jpg"
+        "coverUrl": "Never_go_back.jpg"
     },
     {
         "title": "The Most Powerful Woman in the Room is You",
         "author": "Lydia Fenet",
         "price": 500,
         "description": "A guide for women on commanding presence and achieving success in their careers.",
-        "coverUrl": "The_Most_Powerful_Woman_in_the_Room_is_You.jpg"
+        "coverUrl": "The_nost_powerful_woman_in_the_room_is_you.jpg"
     },
     {
         "title": "Awaken the Giant Within",
         "author": "Tony Robbins",
         "price": 500,
         "description": "Strategies for taking control of your life and achieving your goals, both personally and professionally.",
-        "coverUrl": "Awaken_the_Giant_Within.jpg"
+        "coverUrl": "Awaken_the_giant_within.jpg"
     },
     {
         "title": "Sleep",
@@ -1456,42 +1456,42 @@ const books = [
         "author": "Vex King",
         "price": 500,
         "description": "Insights on building healthy relationships and understanding love better.",
-        "coverUrl": "Things_No_One_Taught_Us_About_Love.jpg"
+        "coverUrl": "Things_no_one_taught_us_about_love.jpg"
     },
     {
         "title": "Mind Hacking",
         "author": "Sir John Hargrave",
         "price": 500,
         "description": "A guide to changing your mindset for good in 21 days, focusing on overcoming fears and improving relationships.",
-        "coverUrl": "Mind_Hacking.jpg"
+        "coverUrl": "Mind_hacking.jpg"
     },
     {
         "title": "Set Boundaries, Find Peace",
         "author": "Nedra Glover Tawwab",
         "price": 500,
         "description": "A practical guide on how to set healthy boundaries to reclaim your life.",
-        "coverUrl": "Set_Boundaries_Find_Peace.jpg"
+        "coverUrl": "Set_boundaries_find_peace.jpg"
     },
     {
         "title": "Girl Therapy",
         "author": "Aniya Holmes",
         "price": 500,
         "description": "An interactive journal designed for women, focusing on self-discovery and personal growth.",
-        "coverUrl": "Girl_Therapy.jpg"
+        "coverUrl": "Girl_therapy.jpg"
     },
     {
         "title": "Why Men Love Bitches",
         "author": "Sherry Argov",
         "price": 500,
         "description": "A guide for women on maintaining self-respect in relationships and understanding what men truly value.",
-        "coverUrl": "Why_Men_Love_Bitches.jpg"
+        "coverUrl": "Why_men_love_bitches.jpg"
     },
     {
         "title": "The Emotionally Healthy Woman",
         "author": "Geri Scazzero",
         "price": 500,
         "description": "Discusses eight things to quit for a healthier emotional life, focusing on self-care and awareness.",
-        "coverUrl": "The_Emotionally_Healthy_Woman.jpg"
+        "coverUrl": "The_emotionally_healthy_woman.jpg"
     },
     {
         "title": "Resilient",
